@@ -1,7 +1,7 @@
 {
   "Assassins Creed Mirage": {
     "game": "Assassins Creed Mirage",
-    "manifest_folder": "Assassins Creed Mirage Manifests and Keys",
+    "manifest_folder": "Manifests/Assassins Creed Mirage Manifests and Keys",
     "key_file": "3035570.key",
     "depots": [
       {
@@ -80,7 +80,7 @@
   },
   "Assassins Creed Shadows": {
     "game": "Assassins Creed Shadows",
-    "manifest_folder": "Assassins Creed Shadows Manifests and Keys",
+    "manifest_folder": "Manifests/Assassins Creed Shadows Manifests and Keys",
     "key_file": "3159330.key",
     "depots": [
       {
@@ -103,7 +103,7 @@
   },
   "Avatar Frontiers of Pandora": {
     "game": "Avatar Frontiers of Pandora",
-    "manifest_folder": "Avatar Frontiers of Pandora Manifests and Keys",
+    "manifest_folder": "Manifests/Avatar Frontiers of Pandora Manifests and Keys",
     "key_file": "2840770.key",
     "depots": [
       {
@@ -142,7 +142,7 @@
   },
   "Black Myth Wukong": {
     "game": "Black Myth Wukong",
-    "manifest_folder": "Black Myth Wukong Manifests and Keys",
+    "manifest_folder": "Manifests/Black Myth Wukong Manifests and Keys",
     "key_file": "2358720.key",
     "depots": [
       {
@@ -165,7 +165,7 @@
   },
   "Borderlands 4": {
     "game": "Borderlands 4",
-    "manifest_folder": "Borderlands 4 Manifests and Keys",
+    "manifest_folder": "Manifests/Borderlands 4 Manifests and Keys",
     "key_file": "1285190.key",
     "depots": [
       {
@@ -212,7 +212,7 @@
   },
   "CODE VEIN II": {
     "game": "CODE VEIN II",
-    "manifest_folder": "CODE VEIN II Manifests and Keys",
+    "manifest_folder": "Manifests/CODE VEIN II Manifests and Keys",
     "key_file": "2362060.key",
     "depots": [
       {
@@ -227,7 +227,7 @@
   },
   "Construction Simulator": {
     "game": "Construction Simulator",
-    "manifest_folder": "Construction Simulator Manifests and Keys",
+    "manifest_folder": "Manifests/Construction Simulator Manifests and Keys",
     "key_file": "1273400.key",
     "depots": [
       {
@@ -378,7 +378,7 @@
   },
   "Crimson Desert": {
     "game": "Crimson Desert",
-    "manifest_folder": "Crimson Desert Manifests and Keys",
+    "manifest_folder": "Manifests/Crimson Desert Manifests and Keys",
     "key_file": "3321460.key",
     "depots": [
       {
@@ -401,7 +401,7 @@
   },
   "DEATH STRANDING 2 ON THE BEACH": {
     "game": "DEATH STRANDING 2 ON THE BEACH",
-    "manifest_folder": "DEATH STRANDING 2 ON THE BEACH Manifests and Keys",
+    "manifest_folder": "Manifests/DEATH STRANDING 2 ON THE BEACH Manifests and Keys",
     "key_file": "3280350.key",
     "depots": [
       {
@@ -432,7 +432,7 @@
   },
   "DOOM The Dark Ages": {
     "game": "DOOM The Dark Ages",
-    "manifest_folder": "DOOM The Dark Ages Manifests and Keys",
+    "manifest_folder": "Manifests/DOOM The Dark Ages Manifests and Keys",
     "key_file": "3017860.key",
     "depots": [
       {
@@ -495,7 +495,7 @@
   },
   "Dead Space": {
     "game": "Dead Space",
-    "manifest_folder": "Dead Space Manifests and Keys",
+    "manifest_folder": "Manifests/Dead Space Manifests and Keys",
     "key_file": "1693980.key",
     "depots": [
       {
@@ -510,7 +510,7 @@
   },
   "Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles 2": {
     "game": "Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles 2",
-    "manifest_folder": "Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles 2 Manifests and Keys",
+    "manifest_folder": "Manifests/Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles 2 Manifests and Keys",
     "key_file": "2928600.key",
     "depots": [
       {
@@ -533,7 +533,7 @@
   },
   "Dragons Dogma 2": {
     "game": "Dragons Dogma 2",
-    "manifest_folder": "Dragons Dogma 2 Manifests and Keys",
+    "manifest_folder": "Manifests/Dragons Dogma 2 Manifests and Keys",
     "key_file": "2054970.key",
     "depots": [
       {
@@ -756,7 +756,7 @@
   },
   "EA SPORTS FC 24": {
     "game": "EA SPORTS FC 24",
-    "manifest_folder": "EA SPORTS FC 24 Manifests and Keys",
+    "manifest_folder": "Manifests/EA SPORTS FC 24 Manifests and Keys",
     "key_file": "2195250.key",
     "depots": [
       {
@@ -779,7 +779,7 @@
   },
   "EA SPORTS FC 25": {
     "game": "EA SPORTS FC 25",
-    "manifest_folder": "EA SPORTS FC 25 Manifests and Keys",
+    "manifest_folder": "Manifests/EA SPORTS FC 25 Manifests and Keys",
     "key_file": "2669320.key",
     "depots": [
       {
@@ -802,7 +802,7 @@
   },
   "EA SPORTS Madden NFL 26": {
     "game": "EA SPORTS Madden NFL 26",
-    "manifest_folder": "EA SPORTS Madden NFL 26 Manifests and Keys",
+    "manifest_folder": "Manifests/EA SPORTS Madden NFL 26 Manifests and Keys",
     "key_file": "3230400.key",
     "depots": [
       {
@@ -825,7 +825,7 @@
   },
   "EA SPORTS WRC": {
     "game": "EA SPORTS WRC",
-    "manifest_folder": "EA SPORTS WRC Manifests and Keys",
+    "manifest_folder": "Manifests/EA SPORTS WRC Manifests and Keys",
     "key_file": "1849250.key",
     "depots": [
       {
@@ -1128,7 +1128,7 @@
   },
   "F1 25": {
     "game": "F1 25",
-    "manifest_folder": "F1 25 Manifests and Keys",
+    "manifest_folder": "Manifests/F1 25 Manifests and Keys",
     "key_file": "3059520.key",
     "depots": [
       {
@@ -1167,7 +1167,7 @@
   },
   "Football Manager 26": {
     "game": "Football Manager 26",
-    "manifest_folder": "Football Manager 26 Manifests and Keys",
+    "manifest_folder": "Manifests/Football Manager 26 Manifests and Keys",
     "key_file": "3551340.key",
     "depots": [
       {
@@ -1190,7 +1190,7 @@
   },
   "GRID Legends": {
     "game": "GRID Legends",
-    "manifest_folder": "GRID Legends Manifests and Keys",
+    "manifest_folder": "Manifests/GRID Legends Manifests and Keys",
     "key_file": "1307710.key",
     "depots": [
       {
@@ -1261,7 +1261,7 @@
   },
   "Hogwarts Legacy": {
     "game": "Hogwarts Legacy",
-    "manifest_folder": "Hogwarts Legacy Manifests and Keys",
+    "manifest_folder": "Manifests/Hogwarts Legacy Manifests and Keys",
     "key_file": "990080.key",
     "depots": [
       {
@@ -1284,7 +1284,7 @@
   },
   "Jurassic World Evolution 2": {
     "game": "Jurassic World Evolution 2",
-    "manifest_folder": "Jurassic World Evolution 2 Manifests and Keys",
+    "manifest_folder": "Manifests/Jurassic World Evolution 2 Manifests and Keys",
     "key_file": "1244460.key",
     "depots": [
       {
@@ -1299,7 +1299,7 @@
   },
   "Life is Strange Reunion": {
     "game": "Life is Strange Reunion",
-    "manifest_folder": "Life is Strange Reunion Manifests and Keys",
+    "manifest_folder": "Manifests/Life is Strange Reunion Manifests and Keys",
     "key_file": "2624870.key",
     "depots": [
       {
@@ -1322,7 +1322,7 @@
   },
   "Like a Dragon Infinite Wealth": {
     "game": "Like a Dragon Infinite Wealth",
-    "manifest_folder": "Like a Dragon Infinite Wealth Manifests and Keys",
+    "manifest_folder": "Manifests/Like a Dragon Infinite Wealth Manifests and Keys",
     "key_file": "2072450.key",
     "depots": [
       {
@@ -1337,7 +1337,7 @@
   },
   "Mafia The Old Country": {
     "game": "Mafia The Old Country",
-    "manifest_folder": "Mafia The Old Country Manifests and Keys",
+    "manifest_folder": "Manifests/Mafia The Old Country Manifests and Keys",
     "key_file": "1941540.key",
     "depots": [
       {
@@ -1352,7 +1352,7 @@
   },
   "Monster Hunter Wilds": {
     "game": "Monster Hunter Wilds",
-    "manifest_folder": "Monster Hunter Wilds Manifests and Keys",
+    "manifest_folder": "Manifests/Monster Hunter Wilds Manifests and Keys",
     "key_file": "2246340.key",
     "depots": [
       {
@@ -1383,7 +1383,7 @@
   },
   "Mortal Kombat 1": {
     "game": "Mortal Kombat 1",
-    "manifest_folder": "Mortal Kombat 1 Manifests and Keys",
+    "manifest_folder": "Manifests/Mortal Kombat 1 Manifests and Keys",
     "key_file": "1971870.key",
     "depots": [
       {
@@ -1446,7 +1446,7 @@
   },
   "Need for Speed Unbound": {
     "game": "Need for Speed Unbound",
-    "manifest_folder": "Need for Speed Unbound Manifests and Keys",
+    "manifest_folder": "Manifests/Need for Speed Unbound Manifests and Keys",
     "key_file": "1846380.key",
     "depots": [
       {
@@ -1469,7 +1469,7 @@
   },
   "Persona 3 Reload": {
     "game": "Persona 3 Reload",
-    "manifest_folder": "Persona 3 Reload Manifests and Keys",
+    "manifest_folder": "Manifests/Persona 3 Reload Manifests and Keys",
     "key_file": "2161700.key",
     "depots": [
       {
@@ -1500,7 +1500,7 @@
   },
   "Persona 5 Royal": {
     "game": "Persona 5 Royal",
-    "manifest_folder": "Persona 5 Royal Manifests and Keys",
+    "manifest_folder": "Manifests/Persona 5 Royal Manifests and Keys",
     "key_file": "1687950.key",
     "depots": [
       {
@@ -1523,7 +1523,7 @@
   },
   "Planet Coaster 2": {
     "game": "Planet Coaster 2",
-    "manifest_folder": "Planet Coaster 2 Manifests and Keys",
+    "manifest_folder": "Manifests/Planet Coaster 2 Manifests and Keys",
     "key_file": "2688950.key",
     "depots": [
       {
@@ -1538,7 +1538,7 @@
   },
   "Planet Zoo": {
     "game": "Planet Zoo",
-    "manifest_folder": "Planet Zoo Manifests and Keys",
+    "manifest_folder": "Manifests/Planet Zoo Manifests and Keys",
     "key_file": "703080.key",
     "depots": [
       {
@@ -1561,7 +1561,7 @@
   },
   "Prince of Persia The Lost Crown": {
     "game": "Prince of Persia The Lost Crown",
-    "manifest_folder": "Prince of Persia The Lost Crown Manifests and Keys",
+    "manifest_folder": "Manifests/Prince of Persia The Lost Crown Manifests and Keys",
     "key_file": "2751000.key",
     "depots": [
       {
@@ -1576,7 +1576,7 @@
   },
   "Resident Evil Requiem": {
     "game": "Resident Evil Requiem",
-    "manifest_folder": "Resident Evil Requiem Manifests and Keys",
+    "manifest_folder": "Manifests/Resident Evil Requiem Manifests and Keys",
     "key_file": "3764200.key",
     "depots": [
       {
@@ -1631,7 +1631,7 @@
   },
   "Sniper Elite Resistance": {
     "game": "Sniper Elite Resistance",
-    "manifest_folder": "Sniper Elite Resistance Manifests and Keys",
+    "manifest_folder": "Manifests/Sniper Elite Resistance Manifests and Keys",
     "key_file": "2169200.key",
     "depots": [
       {
@@ -1734,7 +1734,7 @@
   },
   "Sonic Frontiers": {
     "game": "Sonic Frontiers",
-    "manifest_folder": "Sonic Frontiers Manifests and Keys",
+    "manifest_folder": "Manifests/Sonic Frontiers Manifests and Keys",
     "key_file": "1237320.key",
     "depots": [
       {
@@ -1789,7 +1789,7 @@
   },
   "Star Wars Outlaws": {
     "game": "Star Wars Outlaws",
-    "manifest_folder": "Star Wars Outlaws Manifests and Keys",
+    "manifest_folder": "Manifests/Star Wars Outlaws Manifests and Keys",
     "key_file": "2842040.key",
     "depots": [
       {
@@ -1820,7 +1820,7 @@
   },
   "Stellar Blade": {
     "game": "Stellar Blade",
-    "manifest_folder": "Stellar Blade Manifests and Keys",
+    "manifest_folder": "Manifests/Stellar Blade Manifests and Keys",
     "key_file": "3489700.key",
     "depots": [
       {
@@ -1851,7 +1851,7 @@
   },
   "Street Fighter 6": {
     "game": "Street Fighter 6",
-    "manifest_folder": "Street Fighter 6 Manifests and Keys",
+    "manifest_folder": "Manifests/Street Fighter 6 Manifests and Keys",
     "key_file": "1364780.key",
     "depots": [
       {
@@ -1882,7 +1882,7 @@
   },
   "The First Berserker Khazan": {
     "game": "The First Berserker Khazan",
-    "manifest_folder": "The First Berserker Khazan Manifests and Keys",
+    "manifest_folder": "Manifests/The First Berserker Khazan Manifests and Keys",
     "key_file": "2680010.key",
     "depots": [
       {
@@ -1897,7 +1897,7 @@
   },
   "Two Point Campus": {
     "game": "Two Point Campus",
-    "manifest_folder": "Two Point Campus Manifests and Keys",
+    "manifest_folder": "Manifests/Two Point Campus Manifests and Keys",
     "key_file": "1649080.key",
     "depots": [
       {
@@ -1944,7 +1944,7 @@
   },
   "Undisputed": {
     "game": "Undisputed",
-    "manifest_folder": "Undisputed Manifests and Keys",
+    "manifest_folder": "Manifests/Undisputed Manifests and Keys",
     "key_file": "1451190.key",
     "depots": [
       {
@@ -1959,7 +1959,7 @@
   },
   "WWE 2K26": {
     "game": "WWE 2K26",
-    "manifest_folder": "WWE 2K26 Manifests and Keys",
+    "manifest_folder": "Manifests/WWE 2K26 Manifests and Keys",
     "key_file": "3717070.key",
     "depots": [
       {
@@ -1974,7 +1974,7 @@
   },
   "Yakuza Kiwami 3 & Dark Ties": {
     "game": "Yakuza Kiwami 3 & Dark Ties",
-    "manifest_folder": "Yakuza Kiwami 3 & Dark Ties Manifests and Keys",
+    "manifest_folder": "Manifests/Yakuza Kiwami 3 & Dark Ties Manifests and Keys",
     "key_file": "3937550.key",
     "depots": [
       {
