@@ -399,6 +399,37 @@
       }
     ]
   },
+  "DEATH STRANDING 2 ON THE BEACH": {
+    "game": "DEATH STRANDING 2 ON THE BEACH",
+    "manifest_folder": "DEATH STRANDING 2 ON THE BEACH Manifests and Keys",
+    "key_file": "3280350.key",
+    "depots": [
+      {
+        "app": "3280350",
+        "depot": "3280351",
+        "manifest": "6642072196987883674",
+        "mf": "3280351_6642072196987883674.manifest",
+        "label": "Base Game",
+        "key": "3280350.key"
+      },
+      {
+        "app": "3280350",
+        "depot": "3280352",
+        "manifest": "900472723966373255",
+        "mf": "3280352_900472723966373255.manifest",
+        "label": "Pack 1",
+        "key": "3280350.key"
+      },
+      {
+        "app": "3280350",
+        "depot": "3280354",
+        "manifest": "6192873018491771353",
+        "mf": "3280354_6192873018491771353.manifest",
+        "label": "Pack 2",
+        "key": "3280350.key"
+      }
+    ]
+  },
   "DOOM The Dark Ages": {
     "game": "DOOM The Dark Ages",
     "manifest_folder": "DOOM The Dark Ages Manifests and Keys",
