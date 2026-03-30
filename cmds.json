@@ -163,69 +163,6 @@
       }
     ]
   },
-  "Borderlands 4": {
-    "game": "Borderlands 4",
-    "manifest_folder": "Manifests/Borderlands 4 Manifests and Keys",
-    "key_file": "1285190.key",
-    "depots": [
-      {
-        "app": "1285190",
-        "depot": "1285191",
-        "manifest": "6975940938781783453",
-        "mf": "1285191_6975940938781783453.manifest",
-        "label": "Base Game",
-        "key": "1285190.key"
-      },
-      {
-        "app": "1285190",
-        "depot": "1285191",
-        "manifest": "8461162535071036430",
-        "mf": "1285191_8461162535071036430.manifest",
-        "label": "Pack 1",
-        "key": "1285190.key"
-      },
-      {
-        "app": "1285190",
-        "depot": "1285192",
-        "manifest": "3544921999822090104",
-        "mf": "1285192_3544921999822090104.manifest",
-        "label": "Pack 2",
-        "key": "1285190.key"
-      },
-      {
-        "app": "1285190",
-        "depot": "1285192",
-        "manifest": "8593814336479478264",
-        "mf": "1285192_8593814336479478264.manifest",
-        "label": "Pack 3",
-        "key": "1285190.key"
-      },
-      {
-        "app": "1285190",
-        "depot": "1285193",
-        "manifest": "1587472964084640951",
-        "mf": "1285193_1587472964084640951.manifest",
-        "label": "Pack 4",
-        "key": "1285190.key"
-      },
-      {
-        "app": "1285190",
-        "depot": "1285195",
-        "manifest": "218636985744352584",
-        "mf": "1285195_218636985744352584.manifest",
-        "label": "Pack 5",
-        "key": "1285190.key"
-      },
-      {
-        "app": "1285190",
-        "depot": "2013850",
-        "manifest": "1885194575676718061",
-        "mf": "2013850_1885194575676718061.manifest",
-        "label": "Pack 6",
-        "key": "1285190.key"
-      }
-    ]
-  },
   "Borderlands 4 Super Deluxe": {
     "game": "Borderlands 4 Super Deluxe",
     "manifest_folder": "Manifests/Borderlands 4 Super Deluxe",
