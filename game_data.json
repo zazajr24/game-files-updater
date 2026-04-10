@@ -1,0 +1,35 @@
+{
+  "F1® Manager 2024": {
+    "developer": "Frontier Developments",
+    "publisher": "Frontier Developments",
+    "release": "Jul 23, 2024",
+    "genres": [
+      "Simulation",
+      "Strategy"
+    ],
+    "rating": "80 Overwhelming Positive",
+    "atr": "4.3",
+    "desc": "Lead your team to glory in F1® Manager 2024. A new Formula 1® season has arrived, and with it, the most comprehensive F1® management experience to date. Build a legacy with one of 10 official F1® constructors or create your own team for the very first time.",
+    "tags": [
+      "Singleplayer, Driving,Manager",
+      "2024"
+    ],
+    "quote": "Be the Best!",
+    "min_req": {
+      "os": "Windows 10 64-bit",
+      "cpu": "Intel Core i5-4590 or AMD FX-8370",
+      "ram": "8 GB RAM",
+      "gpu": "(3GB VRAM) Nvidia GeForce GTX 960, AMD R9 280x or Intel Arc 750",
+      "directx": "",
+      "storage": "30 GB available space"
+    },
+    "rec_req": {
+      "os": "Windows 10, 11 64-bit",
+      "cpu": "Intel Core i7-7700 or AMD Ryzen 7 2700",
+      "ram": "16 GB RAM",
+      "gpu": "(4GB VRAM) GeForce GTX 1080, Radeon RX 580 or Intel Arc 770",
+      "directx": "",
+      "storage": "30 GB available space"
+    }
+  }
+}
