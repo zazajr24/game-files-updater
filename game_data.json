@@ -31,5 +31,701 @@
       "directx": "",
       "storage": "30 GB available space"
     }
+  },
+  "Resident Evil Requiem": {
+    "developer": "CAPCOM Co., Ltd.",
+    "publisher": "CAPCOM Co., Ltd.",
+    "release": "Feb 26, 2026",
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "desc": "Requiem for the dead. Nightmare for the living. Prepare to escape death in a heart-stopping experience that will chill you to your core.",
+    "min_req": {
+      "os": "Windows 11 (64bit required)",
+      "cpu": "Intel corei5-8500 / AMD Ryzen 5 3500",
+      "ram": "16 GB RAM",
+      "gpu": "GeForce GTX 1660 6GB /  Radeon RX 5500 XT 8GB",
+      "dx": "Version 12"
+    },
+    "rec_req": {
+      "os": "Windows 11 (64bit required)",
+      "cpu": "Intel Core i7-8700 / AMD Ryzen 5 5500",
+      "ram": "16 GB RAM",
+      "gpu": "GeForce RTX 2060 Super 8GB / Radeon RX 6600 8GB",
+      "dx": "Version 12"
+    }
+  },
+  "Crimson Desert": {
+    "developer": "Pearl Abyss",
+    "publisher": "Pearl Abyss",
+    "release": "Mar 19, 2026",
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "desc": "Crimson Desert is an open-world action-adventure set on the continent of Pywel. Join Kliff on his journey to rebuild the Greymane faction and to save the land from a looming threat. From vast wilderness and cities to ruins and the mysterious Abyss, forge your path through battles and discovery.",
+    "min_req": {
+      "os": "Windows 10 64-bit",
+      "cpu": "Ryzen 5 2600X / i5-8500",
+      "ram": "16 GB RAM",
+      "gpu": "RX 5500 XT / GTX 1060",
+      "dx": "Version 12",
+      "stor": "150 GB available space"
+    },
+    "rec_req": {
+      "os": "Windows 10 64-bit",
+      "cpu": "Ryzen 5 5600 / i5-11600K",
+      "ram": "16 GB RAM",
+      "gpu": "RX 6700 XT / RTX 2080",
+      "dx": "Version 12",
+      "stor": "150 GB available space"
+    }
+  },
+  "WWE 2K26": {
+    "developer": "Visual Concepts",
+    "publisher": "2K",
+    "release": "Mar 12, 2026",
+    "genres": [
+      "Simulation",
+      "Sports"
+    ],
+    "desc": "The show never stops in WWE 2K26! Step into CM Punk’s 2K Showcase, dominate with 400+ Superstars and Legends, and unleash chaos with all-new match types.",
+    "min_req": {
+      "os": "Windows 10 64-bit",
+      "cpu": "i7-4770 | Ryzen 5 1500x",
+      "ram": "16 GB RAM",
+      "gpu": "RTX 2060 | RX 5700",
+      "dx": "Version 12",
+      "stor": "120 GB available space"
+    },
+    "rec_req": {
+      "os": "Windows 10 64-bit",
+      "cpu": "i7-7700 | Ryzen 5 2600",
+      "ram": "16 GB RAM",
+      "gpu": "RTX 3060 | RX 6700XT",
+      "dx": "Version 12",
+      "stor": "120 GB available space"
+    }
+  },
+  "Undisputed": {
+    "developer": "Steel City Interactive",
+    "publisher": "Deep Silver",
+    "release": "Oct 8, 2024",
+    "genres": [
+      "Action",
+      "Simulation",
+      "Sports"
+    ],
+    "desc": "Become Undisputed in the most authentic boxing game to date! Featuring true to life visuals, bone-jarring action, and more licensed boxers than ever before, Undisputed gives you unprecedented control to master every inch of the ring.",
+    "min_req": {
+      "os": "Windows 10 or higher",
+      "cpu": "Intel i5 7500 (3.4GHz) OR AMD 5 1600(3.2GHz)",
+      "ram": "8 GB RAM",
+      "gpu": "GeForce GTX 1660 OR AMD Rx 590",
+      "dx": "Version 11",
+      "stor": "40 GB available space"
+    },
+    "rec_req": {
+      "os": "Windows 10",
+      "cpu": "Intel i7-9700K (3.70GHz) OR AMD Ryzen 5 3600 (4.2GHz)",
+      "ram": "16 GB RAM",
+      "gpu": "NVIDIA GeForce RTX 3070 / RTX 2070 OR AMD Radeon RX 5700 XT",
+      "dx": "Version 11",
+      "stor": "40 GB available space"
+    }
+  },
+  "Assassin's Creed Mirage": {
+    "developer": "Ubisoft Bordeaux",
+    "publisher": "Ubisoft",
+    "release": "Oct 17, 2024",
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "desc": "Become a deadly Master Assassin in this action-adventure game. Explore the streets of ninth-century Baghdad through the eyes of Basim. Take down your targets while seeking justice as part of the Hidden Ones.",
+    "min_req": {
+      "os": "Windows 10/11",
+      "cpu": "INTEL® Core™ i7-4790K (INTEL® Core™ i5-8400 for Intel® ARC™ with Rebar) / Ryzen™ 5 1600",
+      "ram": "8 GB RAM",
+      "gpu": "Intel® Arc™ A380 (6 GB) / NVIDIA® GeForce® GTX 1060 (6 GB) / AMD Radeon™ RX 570 (4 GB)",
+      "dx": "Version 12",
+      "stor": "40 GB available space"
+    },
+    "rec_req": {
+      "os": "Windows 10/11",
+      "cpu": "Intel® Core™ i7-8700K / AMD Ryzen™ 5 3600",
+      "ram": "16 GB RAM",
+      "gpu": "Intel® Arc™ A750 (8 GB) / NVIDIA® GeForce® GTX 1660 Ti (6 GB) / AMD Radeon™ RX 5600 XT (6 GB)",
+      "dx": "Version 12",
+      "stor": "40 GB available space"
+    }
+  },
+  "Assassin's Creed Shadows": {
+    "developer": "Ubisoft Quebec, Ubisoft Belgrade, Ubisoft Bordeaux, Ubisoft Bucharest & Craiova, Ubisoft Chengdu, Ubisoft Montpellier, Ubisoft Montreal, Ubisoft Osaka, Ubisoft Philippines, Ubisoft Shanghai, Ubisoft Singapore, Ubisoft Sofia, Ubisoft Ukraine",
+    "publisher": "Ubisoft",
+    "release": "Mar 19, 2025",
+    "genres": [
+      "Action",
+      "Adventure",
+      "RPG"
+    ],
+    "desc": "Experience an epic action-adventure story set in feudal Japan! Become a lethal shinobi assassin and powerful legendary samurai as you explore a beautiful open world in a time of chaos.",
+    "min_req": {
+      "os": "Windows 10/11",
+      "cpu": "INTEL® Core TM i7 8700K AMD RYZEN 5 3600",
+      "ram": "16 GB RAM",
+      "gpu": "NVIDIA® GEFORCE GTX 1650 4GB / AMD RX-5500 XT 8GB / INTEL® ARC TM A380 6GB (REBAR ON)&quot;",
+      "dx": "Version 12",
+      "stor": "115 GB available space"
+    },
+    "rec_req": {
+      "os": "Windows 10/11",
+      "cpu": "Intel® Core™ i5 11600k/AMD Ryzen™ 5 5600x",
+      "ram": "16 GB RAM",
+      "gpu": "Nvidia® GeForce RTX™ 3060Ti 8GB/AMD Radeon™ RX 6700 XT 12GB/Intel® Arc™ B580 12GB (REBAR ON)",
+      "dx": "Version 12",
+      "stor": "115 GB available space"
+    }
+  },
+  "Avatar: Frontiers of Pandora": {
+    "developer": "Massive Entertainment – A Ubisoft Studio, Ubisoft Montpellier, Ubisoft Shanghai, Ubisoft Toronto, Ubisoft Düsseldorf, Ubisoft Reflections",
+    "publisher": "Ubisoft",
+    "release": "Jun 17, 2024",
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "desc": "Avatar: Frontiers of Pandora™ is a third and first-person action-adventure game set in the Western Frontier. Reconnect with your lost heritage and discover what it means to be Na'vi.",
+    "min_req": {
+      "os": "Windows 10/11 (64-bit versions)",
+      "cpu": "AMD Ryzen 5 3600 @ 3.6 GHz, Intel Core i7-8700K @ 3.70 GHz, or better",
+      "ram": "16 GB RAM",
+      "gpu": "AMD RX 5700 (8 GB), Intel Arc A750 (8 GB, with ReBAR on), NVIDIA GeForce GTX 1070 (8 GB), or better",
+      "dx": "Version 12",
+      "stor": "90 GB available space"
+    },
+    "rec_req": {
+      "os": "Windows 10/11 (64-bit versions)",
+      "cpu": "AMD Ryzen 5 5600X @ 3.7 GHz, Intel Core i5-11600K @ 3.9 GHz, or better",
+      "ram": "16 GB RAM",
+      "gpu": "AMD Radeon RX 6700 XT (12 GB), NVIDIA GeForce RTX 3060 Ti (8 GB), or better",
+      "dx": "Version 12",
+      "stor": "90 GB available space"
+    }
+  },
+  "Black Myth: Wukong": {
+    "developer": "Game Science",
+    "publisher": "Game Science",
+    "release": "Aug 19, 2024",
+    "genres": [
+      "Action",
+      "Adventure",
+      "RPG"
+    ],
+    "desc": "Black Myth: Wukong is an action RPG rooted in Chinese mythology. You shall set out as the Destined One to venture into the challenges and marvels ahead, to uncover the obscured truth beneath the veil of a glorious legend from the past.",
+    "min_req": {
+      "os": "Windows 10 64-bit",
+      "cpu": "Intel Core i5-8400 / AMD Ryzen 5 1600",
+      "ram": "16 GB RAM",
+      "gpu": "NVIDIA GeForce GTX 1060 6GB / AMD Radeon RX 580 8GB",
+      "dx": "Version 11",
+      "stor": "130 GB available space"
+    },
+    "rec_req": {
+      "os": "Windows 10 64-bit",
+      "cpu": "Intel Core i7-9700 / AMD Ryzen 5 5500",
+      "ram": "16 GB RAM",
+      "gpu": "NVIDIA GeForce RTX 2060 / AMD Radeon RX 5700 XT / INTEL Arc A750",
+      "dx": "Version 12",
+      "stor": "130 GB available space"
+    }
+  },
+  "CODE VEIN II": {
+    "developer": "Bandai Namco Studios Inc.",
+    "publisher": "Bandai Namco Entertainment Inc.",
+    "release": "Jan 29, 2026",
+    "genres": [
+      "Action",
+      "RPG"
+    ],
+    "desc": "An epic adventure awaits, where you and your chosen partners explore a post-apocalyptic world, face fierce battles against powerful enemies, and uncover an epic story that transcends time.",
+    "min_req": {
+      "os": "Windows 11",
+      "cpu": "Intel Core i5-9600K /AMD Ryzen 5 3600",
+      "ram": "16 GB RAM",
+      "gpu": "Nvidia GeForce GTX 1660 Super / AMD Radeon RX 5700 / Intel Arc B570",
+      "dx": "Version 12",
+      "stor": "70 GB available space"
+    },
+    "rec_req": {
+      "os": "Windows 11",
+      "cpu": "Intel Core i7-12700KF / AMD Ryzen 7 7800X3D",
+      "ram": "16 GB RAM",
+      "gpu": "Nvidia GeForce RTX 3080 / AMD Radeon RX 6800",
+      "dx": "Version 12",
+      "stor": "70 GB available space"
+    }
+  },
+  "Construction Simulator": {
+    "developer": "weltenbauer. Software Entwicklung GmbH",
+    "publisher": "astragon Entertainment",
+    "release": "Sep 20, 2022",
+    "genres": [
+      "Casual",
+      "Simulation"
+    ],
+    "desc": "Construction Simulator has returned – larger and more impressive than ever! Fulfil your ambition to become a successful construction entrepreneur by establishing your business from scratch, assisted by your mentor Hape.",
+    "min_req": {
+      "os": "Windows 10",
+      "cpu": "Intel Core i5-4460 3.2 GHz or AMD FX-8350 Eight-Core or comparable",
+      "ram": "8 GB RAM",
+      "gpu": "Nvidia GTX 960 (4GB) or AMD Radeon Pro 570 (4GB) or comparable",
+      "dx": "Version 11",
+      "stor": "10 GB available space"
+    },
+    "rec_req": {
+      "os": "Windows 10",
+      "cpu": "Intel i5-10400F or AMD Ryzen 5 2600 or comparable",
+      "ram": "16 GB RAM",
+      "gpu": "Nvidia GeForce GTX 1660 (6GB) or AMD Radeon RX5700 (8GB) or comparable",
+      "dx": "Version 11",
+      "stor": "10 GB available space"
+    }
+  },
+  "DEATH STRANDING 2 ON THE BEACH": {
+    "developer": "KOJIMA PRODUCTIONS, Nixxes Software ",
+    "publisher": "PlayStation Publishing LLC, KOJIMA PRODUCTIONS",
+    "release": "Mar 19, 2026",
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "desc": "Sam – with companions by his side – sets out on a new journey to save humanity from extinction. Join them as they traverse a world beset by otherworldly enemies, obstacles and a haunting question: should we have connected?",
+    "min_req": {
+      "os": "Windows 10/11 Version 1909 or newer",
+      "cpu": "Intel Core i3-10100, AMD Ryzen 3 3100",
+      "ram": "16 GB RAM",
+      "gpu": "NVIDIA GeForce GTX 1660, AMD Radeon RX 5500 XT 8GB",
+      "stor": "150 GB available space"
+    },
+    "rec_req": {
+      "os": "Windows 10/11 Version 1909 or newer",
+      "cpu": "Intel Core i7-11700, AMD Ryzen 7 5700X",
+      "ram": "16 GB RAM",
+      "gpu": "NVIDIA GeForce RTX 3070, AMD Radeon RX 6800",
+      "stor": "150 GB available space"
+    }
+  },
+  "DOOM: The Dark Ages": {
+    "developer": "id Software",
+    "publisher": "Bethesda Softworks",
+    "release": "May 14, 2025",
+    "genres": [
+      "Action"
+    ],
+    "desc": "DOOM: The Dark Ages is the prequel to the critically acclaimed DOOM (2016) and DOOM Eternal that tells an epic cinematic story worthy of the DOOM Slayer’s legend. Players will step into the blood-stained boots of the DOOM Slayer, in this never-before-seen dark and sinister medieval war against Hell.",
+    "min_req": {
+      "os": "Windows 10 64-Bit / Windows 11 64-Bit",
+      "cpu": "AMD Zen 2 or Intel 10th Generation CPU @3.2Ghz with 8 cores / 16 threads or better (examples: AMD Ryzen 7 3700X or better, or Intel Core i7 10700K or better)",
+      "ram": "16 GB RAM",
+      "gpu": "NVIDIA or AMD hardware Raytracing-capable GPU with 8GB dedicated VRAM or better  (examples: NVIDIA RTX 2060 SUPER or better, AMD RX 6600 or better)",
+      "stor": "100 GB available space"
+    },
+    "rec_req": {
+      "os": "Windows 10 64-Bit / Windows 11 64-Bit",
+      "cpu": "AMD Zen 3 or Intel 12th Generation CPU @3.2Ghz with 8 cores / 16 threads or better (examples: AMD Ryzen 7 5700X or better, or Intel Core i7 12700K or better)",
+      "ram": "32 GB RAM",
+      "gpu": "NVIDIA or AMD hardware Raytracing-capable GPU with 10GB dedicated VRAM or better (examples: NVIDIA RTX 3080 or better, AMD RX 6800 or better)",
+      "stor": "100 GB available space"
+    }
+  },
+  "Dragon's Dogma 2": {
+    "developer": "CAPCOM Co., Ltd.",
+    "publisher": "CAPCOM Co., Ltd.",
+    "release": "Mar 21, 2024",
+    "genres": [
+      "Action",
+      "RPG"
+    ],
+    "desc": "Dragon’s Dogma 2 is a single player, narrative driven action-RPG that challenges the players to choose their own experience – from the appearance of their Arisen, their vocation, their party, how to approach different situations and more - in a truly immersive fantasy world.",
+    "min_req": {
+      "os": "Windows 10 (64 bit)/Windows 11 (64 bit)",
+      "cpu": "Intel Core i5 10600 /  AMD Ryzen 5 3600",
+      "ram": "16 GB RAM",
+      "gpu": "NVIDIA GeForce GTX 1070 / AMD Radeon RX 5500 XT with 8GB VRAM",
+      "dx": "Version 12"
+    },
+    "rec_req": {
+      "os": "Windows 10 (64 bit)/Windows 11 (64 bit)",
+      "cpu": "Intel Core i7-10700 /  AMD Ryzen 5 3600X",
+      "ram": "16 GB RAM",
+      "gpu": "NVIDIA GeForce RTX 2080 / AMD Radeon RX 6700",
+      "dx": "Version 12"
+    }
+  },
+  "EA SPORTS FC 25": {
+    "developer": "EA Canada, EA Romania",
+    "publisher": "Electronic Arts",
+    "release": "Sep 26, 2024",
+    "genres": [
+      "Simulation",
+      "Sports"
+    ],
+    "desc": "EA SPORTS FC™ 25 gives you more ways to win for the club. Team up with friends in your favourite modes with the new 5v5 Rush, and manage your club to victory as FC IQ delivers more tactical control than ever before.",
+    "min_req": {
+      "os": "Windows 10 - 64-Bit (Latest Update)",
+      "cpu": "AMD Ryzen 5 1600 or Intel Core i5 6600k",
+      "ram": "8 GB RAM",
+      "gpu": "AMD RX 570 or Nvidia GTX 1050 Ti",
+      "dx": "Version 12",
+      "stor": "100 GB available space"
+    },
+    "rec_req": {
+      "os": "Windows 10 - 64-Bit (Latest Update).",
+      "cpu": "AMD Ryzen 7 2700X or Intel Core i7 6700",
+      "ram": "12 GB RAM",
+      "gpu": "AMD RX 5600 XT or Nvidia GTX 1660",
+      "dx": "Version 12",
+      "stor": "100 GB available space"
+    }
+  },
+  "EA SPORTS WRC": {
+    "developer": "Codemasters",
+    "publisher": "Electronic Arts",
+    "release": "Nov 2, 2023",
+    "genres": [
+      "Racing",
+      "Simulation",
+      "Sports"
+    ],
+    "desc": "Experience the thrill of the 2024 rally season with new locations, moments, stages, high-performance vehicles, new liveries, and licensed crews. Brace yourself to embark on your continued rally journey.",
+    "min_req": {
+      "os": "Windows 10",
+      "cpu": "AMD Ryzen 5 2600X Intel i5 9600K",
+      "ram": "8 GB RAM",
+      "gpu": "Nvidia GTX 1060 Radeon RX Vega 56",
+      "dx": "Version 12",
+      "stor": "110 GB available space"
+    },
+    "rec_req": {
+      "os": "Windows 10",
+      "cpu": "AMD Ryzen 7 3700X Intel i5 10600K",
+      "ram": "16 GB RAM",
+      "gpu": "Nvidia RTX 2070 Radeon RX 5700 XT",
+      "dx": "Version 12",
+      "stor": "110 GB available space"
+    }
+  },
+  "Football Manager 26": {
+    "developer": "Sports Interactive",
+    "publisher": "SEGA",
+    "release": "Nov 4, 2025",
+    "genres": [
+      "Simulation",
+      "Sports",
+      "Strategy"
+    ],
+    "desc": "Step into the dugout and experience the future of football management.",
+    "min_req": {
+      "os": "Windows 10 (with updates 22H2), Windows 11 (with updates 23H2)",
+      "cpu": "Desktop: Intel Core i3-530 or AMD FX-4100  Laptop: Intel Core i3-330M or AMD A6-5200  Requires SSE4.2 &amp; SSSE3",
+      "ram": "4 GB RAM",
+      "gpu": "Desktop: NVIDIA GeForce GTX 960 or AMD Radeon R9 380 or Intel HD 530  Laptop: NVIDIA GeForce GTX 960M or AMD Radeon R9 M375 or Intel HD 530  512MiB VRAM",
+      "dx": "Version 11",
+      "stor": "20 GB available space"
+    },
+    "rec_req": {
+      "os": "Windows 11 – with updates (23H2)",
+      "cpu": "Desktop: Intel Core i5-9600 or AMD Ryzen 5 2600  Laptop: Intel Core i5-1035G7 or AMD Ryzen 7 3750H",
+      "ram": "12 GB RAM",
+      "gpu": "Desktop: NVIDIA GeForce RTX 2060 or AMD Radeon RX 5600 XT  Laptop: NVIDIA GeForce RTX 2060 Mobile or AMD Radeon RX 6600M",
+      "dx": "Version 11",
+      "stor": "20 GB available space"
+    }
+  },
+  "GRID Legends Deluxe": {
+    "developer": "Codemasters",
+    "publisher": "Electronic Arts",
+    "release": "Feb 24, 2022",
+    "genres": [
+      "Racing"
+    ],
+    "desc": "Upgrade to the Deluxe Edition today for exclusive GRID Legends content, including new story experiences, bonus Career events, customization items, and more.",
+    "min_req": {
+      "os": "64-bit Windows 10/11",
+      "cpu": "Intel i3 2130, AMD FX4300",
+      "ram": "8 GB RAM",
+      "gpu": "NVIDIA GTX 950, AMD RADEON RX 460",
+      "dx": "Version 12",
+      "stor": "50 GB available space"
+    },
+    "rec_req": {
+      "os": "64-bit Windows 10/11",
+      "cpu": "Intel i5 8600k, AMD Ryzen 5 2600x",
+      "ram": "16 GB RAM",
+      "gpu": "Nvidia GTX 1080, AMD RX590",
+      "dx": "Version 12",
+      "stor": "50 GB available space"
+    }
+  },
+  "Hatsune Miku Project DIVA Mega Mix+": {
+    "developer": "SEGA",
+    "publisher": "SEGA",
+    "release": "May 26, 2022",
+    "genres": [
+      "Action"
+    ],
+    "desc": "Take center stage in Hatsune Miku’s premier rhythm game starring the world’s #1 virtual pop star! With a stunner setlist and enormous wardrobe to style, it’s Miku’s ultimate tour—all it needs is you.",
+    "min_req": {
+      "os": "Windows 10 64-bit",
+      "cpu": "Intel Core i3-2100、3.1 GHz or AMD Phenom II X4 965, 3.6 GHz",
+      "ram": "4 GB RAM",
+      "gpu": "Nvidia GeForce GTX 550 Ti, 1 GB or AMD Radeon HD 5850, 1 GB",
+      "dx": "Version 11",
+      "stor": "20 GB available space"
+    },
+    "rec_req": {
+      "os": "Windows 10 64-bit",
+      "cpu": "Intel Core i5-2400、3.1 GHz or AMD Ryzen 3 1200, 3.1 GHz",
+      "ram": "4 GB RAM",
+      "gpu": "Nvidia GeForce GTX 750 Ti, 2 GB or AMD Radeon HD 6870, 1 GB",
+      "dx": "Version 11",
+      "stor": "30 GB available space"
+    }
+  },
+  "Hogwarts Legacy": {
+    "developer": "Avalanche Software",
+    "publisher": "Warner Bros. Games",
+    "release": "Feb 10, 2023",
+    "genres": [
+      "Action",
+      "Adventure",
+      "RPG"
+    ],
+    "desc": "Hogwarts Legacy is an immersive, open-world action RPG. Now you can take control of the action and be at the center of your own adventure in the wizarding world.",
+    "min_req": {
+      "os": "64-bit Windows 10",
+      "cpu": "Intel Core i5-6600 (3.3Ghz) or AMD Ryzen 5 1400 (3.2Ghz)",
+      "ram": "16 GB RAM",
+      "gpu": "NVIDIA GeForce GTX 960 4GB or AMD Radeon RX 470 4GB",
+      "dx": "Version 12",
+      "stor": "85 GB available space"
+    },
+    "rec_req": {
+      "os": "64-bit Windows 10",
+      "cpu": "Intel Core i7-8700 (3.2Ghz) or AMD Ryzen 5 3600 (3.6 Ghz)",
+      "ram": "16 GB RAM",
+      "gpu": "NVIDIA GeForce 1080 Ti or AMD Radeon RX 5700 XT or INTEL Arc A770",
+      "dx": "Version 12",
+      "stor": "85 GB available space"
+    }
+  },
+  "Jurassic World Evolution 2": {
+    "developer": "Frontier Developments",
+    "publisher": "Frontier Developments",
+    "release": "Nov 9, 2021",
+    "genres": [
+      "Simulation",
+      "Strategy"
+    ],
+    "desc": "Jurassic World Evolution 2 is the much-anticipated sequel to Frontier’s highly successful Jurassic World Evolution. This bold new era in the Jurassic World Evolution game franchise builds upon the ground-breaking and immersive 2018 management simulation.",
+    "min_req": {
+      "os": "Windows 10 64bit (min version 1809)",
+      "cpu": "Intel i5-4590/AMD FX 8370",
+      "ram": "8 GB RAM",
+      "gpu": "(4GB VRAM) NVIDIA GeForce GTX 1050Ti (Legacy GPU: GeForce GTX 960) / AMD Radeon RX 470",
+      "dx": "Version 12",
+      "stor": "14 GB available space"
+    },
+    "rec_req": {
+      "os": "Windows 10 64bit (min version 1809)",
+      "cpu": "Intel i7-5775C/AMD Ryzen 5 1500X",
+      "ram": "12 GB RAM",
+      "gpu": "(6GB VRAM) NVIDIA GeForce GTX 1070 / AMD RX 570 (8GB)",
+      "dx": "Version 12",
+      "stor": "14 GB available space"
+    }
+  },
+  "Life is Strange: Reunion": {
+    "developer": "Deck Nine Games",
+    "publisher": "Square Enix",
+    "release": "Mar 26, 2026",
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "desc": "The saga of Max and Chloe, and the fate of Caledon, is yours to decide! Play as both Max and Chloe as an all-new story builds towards an epic climax. The fire will force Max and Chloe to make devastating decisions. Can they find a future together… Before everything burns?",
+    "min_req": {
+      "os": "Windows 10",
+      "cpu": "AMD Ryzen 5 1400 / Intel Core i5-4670K",
+      "ram": "12 GB RAM",
+      "gpu": "AMD Radeon RX 480, 8 GB / NVIDIA GeForce GTX 1660, 6 GB / Intel Arc A750, 8GB",
+      "dx": "Version 12",
+      "stor": "30 GB available space"
+    },
+    "rec_req": {
+      "os": "Windows 11",
+      "cpu": "AMD Ryzen 5 3600 / Intel Core i5-10600",
+      "ram": "16 GB RAM",
+      "gpu": "AMD Radeon RX 6650 XT, 8 GB / NVIDIA GeForce RTX 3060 Ti, 8 GB",
+      "dx": "Version 12",
+      "stor": "30 GB available space"
+    }
+  },
+  "Like a Dragon: Infinite Wealth": {
+    "developer": "Ryu Ga Gotoku Studio",
+    "publisher": "SEGA",
+    "release": "Jan 25, 2024",
+    "genres": [
+      "Action",
+      "Adventure",
+      "RPG"
+    ],
+    "desc": "Two larger-than-life heroes, Ichiban Kasuga and Kazuma Kiryu are brought together by the hand of fate, or perhaps something more sinister… Live it up in Japan and explore all that Hawaii has to offer in an RPG adventure so big it spans the Pacific.",
+    "min_req": {
+      "os": "Windows 10 1903 (OS Build 18362)",
+      "cpu": "Intel Core i5-3470, 3.2 GHz or AMD Ryzen 3 1200, 3.1 GHz",
+      "ram": "8 GB RAM",
+      "gpu": "NVIDIA GeForce GTX 960, 4 GB or AMD Radeon RX 460, 4 GB or Intel Arc A380, 6 GB",
+      "dx": "Version 12",
+      "stor": "82 GB available space"
+    },
+    "rec_req": {
+      "os": "Windows 10 1903 (OS Build 18362)",
+      "cpu": "Intel Core i7-4790, 3.6 GHz or AMD Ryzen 5 1600, 3.2 GHz",
+      "ram": "16 GB RAM",
+      "gpu": "NVIDIA GeForce RTX 2060, 6 GB or AMD Radeon RX 5700, 8 GB or Intel Arc A750, 8 GB",
+      "dx": "Version 12",
+      "stor": "82 GB available space"
+    }
+  },
+  "Madden NFL 26": {
+    "developer": "Tiburon",
+    "publisher": "Electronic Arts",
+    "release": "Aug 14, 2025",
+    "genres": [
+      "Simulation",
+      "Sports"
+    ],
+    "desc": "EA SPORTS™ Madden NFL 26 leverages a new AI-powered machine learning system to convert thousands of plays from nearly a decade of real NFL data into more explosive gameplay.",
+    "min_req": {
+      "os": "Windows 10 - 64-Bit (Latest Update)",
+      "cpu": "Intel Core i7-6700K (4-cores; 8-threads) or AMD Ryzen 5 1600",
+      "ram": "10 GB RAM",
+      "gpu": "NVIDIA GeForce GTX 1050 Ti 4GB or AMD Radeon RX 570 4GB",
+      "dx": "Version 12",
+      "stor": "65 GB available space"
+    },
+    "rec_req": {
+      "os": "Windows 10 - 64-Bit (Latest Update)",
+      "cpu": "Intel Core i7-8700K (6-core; 12-thread) or AMD Ryzen 7 2700X",
+      "ram": "12 GB RAM",
+      "gpu": "NVIDIA GeForce RTX 3060 8GB or AMD RX 6600 XT 8GB",
+      "dx": "Version 12",
+      "stor": "65 GB available space"
+    }
+  },
+  "Mafia The Old Country": {
+    "developer": "Hangar 13",
+    "publisher": "2K",
+    "release": "Aug 7, 2025",
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "desc": "Uncover the origins of organized crime in Mafia: The Old Country, a gritty mob story set in the brutal underworld of 1900s Sicily. Fight to survive as Enzo Favara and prove your worth to the Family in this immersive third-person action-adventure.",
+    "min_req": {
+      "os": "Windows 10 / 11",
+      "cpu": "AMD Ryzen 7 2700X / Intel Core i7-9700K",
+      "ram": "16 GB RAM",
+      "gpu": "AMD Radeon RX 5700 XT / NVIDIA RTX 2070",
+      "dx": "Version 12",
+      "stor": "55 GB available space"
+    },
+    "rec_req": {
+      "os": "Windows 10 / 11",
+      "cpu": "AMD Ryzen 7 5800X / Intel Core i7-12700K",
+      "ram": "32 GB RAM",
+      "gpu": "AMD Radeon RX 6950 XT / NVIDIA RTX 3080 Ti",
+      "dx": "Version 12",
+      "stor": "55 GB available space"
+    }
+  },
+  "Monster Hunter Wilds": {
+    "developer": "CAPCOM Co., Ltd.",
+    "publisher": "CAPCOM Co., Ltd.",
+    "release": "Feb 27, 2025",
+    "genres": [
+      "Action",
+      "Adventure",
+      "RPG"
+    ],
+    "desc": "The unbridled force of nature runs wild and relentless, with environments transforming drastically from one moment to the next. This is a story of monsters and humans and their struggles to live in harmony in a world of duality.",
+    "min_req": {
+      "os": "Windows®10 (64-bit Required)/Windows®11 (64-bit Required)",
+      "cpu": "Intel® Core™ i5-10400 or Intel® Core™ i3-12100 or AMD Ryzen™ 5 3600",
+      "ram": "16 GB RAM",
+      "gpu": "NVIDIA® GeForce® GTX 1660(VRAM 6GB) or AMD Radeon™ RX 5500 XT(VRAM 8GB)",
+      "dx": "Version 12",
+      "stor": "75 GB available space"
+    },
+    "rec_req": {
+      "os": "Windows®10 (64-bit Required)/Windows®11 (64-bit Required)",
+      "cpu": "Intel® Core™ i5-10400 or Intel® Core™ i3-12100 or AMD Ryzen™ 5 3600",
+      "ram": "16 GB RAM",
+      "gpu": "NVIDIA® GeForce® RTX 2060 Super(VRAM 8GB) or　AMD Radeon™  RX 6600(VRAM 8GB)",
+      "dx": "Version 12",
+      "stor": "75 GB available space"
+    }
+  },
+  "Mortal Kombat 1": {
+    "developer": "NetherRealm Studios, QLOC",
+    "publisher": "Warner Bros. Games",
+    "release": "Sep 19, 2023",
+    "genres": [
+      "Action"
+    ],
+    "desc": "Discover a reborn Mortal Kombat™ Universe created by the Fire God Liu Kang. Mortal Kombat™ 1 ushers in a new era of the iconic franchise with a new fighting system, game modes, and fatalities!",
+    "min_req": {
+      "os": "Windows 10 64-bit",
+      "cpu": "Intel® Core™ i5-6600 | AMD Ryzen™ 3 3100 or Ryzen™ 5 2600",
+      "ram": "8 GB RAM",
+      "gpu": "Nvidia GeForce® GTX 1660 or AMD Radeon™ RX 590 or Intel® Arc™ A750",
+      "dx": "Version 12",
+      "stor": "140 GB available space"
+    },
+    "rec_req": {
+      "os": "Windows 10/11 64-bit",
+      "cpu": "Intel® Core™ i5-8400 | AMD Ryzen™ 5 3600X",
+      "ram": "8 GB RAM",
+      "gpu": "Nvidia GeForce® GTX 2080 Ti or AMD Radeon™ RX 5700 XT or Intel® Arc™ A770",
+      "dx": "Version 12",
+      "stor": "140 GB available space"
+    }
+  },
+  "Planet Zoo": {
+    "developer": "Frontier Developments",
+    "publisher": "Frontier Developments",
+    "release": "Nov 5, 2019",
+    "genres": [
+      "Casual",
+      "Simulation",
+      "Strategy"
+    ],
+    "desc": "Build a world for wildlife in Planet Zoo. From the developers of Planet Coaster and Zoo Tycoon comes the ultimate zoo sim. Construct detailed habitats, manage your zoo, and meet authentic living animals who think, feel and explore the world you create around them.",
+    "min_req": {
+      "cpu": "Intel i5-2500 / AMD FX-6350",
+      "ram": "8 GB RAM",
+      "gpu": "NVIDIA GeForce GTX 770 (2GB) / AMD Radeon R9 270X (2GB)",
+      "stor": "16 GB available space"
+    },
+    "rec_req": {
+      "os": "Windows 10 64bit",
+      "cpu": "Intel i7-4770k / AMD Ryzen 5 1600",
+      "ram": "16 GB RAM",
+      "gpu": "NVIDIA GeForce GTX 1070 (8GB) or AMD Radeon RX 580 (8GB)",
+      "stor": "16 GB available space"
+    }
   }
 }
