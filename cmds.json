@@ -2058,7 +2058,7 @@
         "type": "B",
         "number": "17356935",
         "size": 14.0,
-        "is_latest": false,
+        "is_latest": true,
         "manifest_folder": "Manifests/F1® Manager 2024_B_17356935"
       }
     ]
