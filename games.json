@@ -1,13 +1,5 @@
 [
   {
-    "name": "Resident Evil Requiem",
-    "url": "steam_depot",
-    "image": "re9.png",
-    "size": 78.0,
-    "version": "",
-    "build_id": ""
-  },
-  {
     "name": "Crimson Desert",
     "url": "steam_depot",
     "image": "crimsondesert.png",
@@ -365,5 +357,12 @@
     "image": "",
     "size": 0.0,
     "appid": "2591280"
+  },
+  {
+    "name": "Resident Evil Requiem",
+    "url": "steam_depot",
+    "image": "",
+    "size": 0.0,
+    "appid": "3764200"
   }
 ]
