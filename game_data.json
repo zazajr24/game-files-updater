@@ -738,38 +738,5 @@
       "gpu": "NVIDIA GeForce GTX 1070 (8GB) or AMD Radeon RX 580 (8GB)",
       "stor": "16 GB available space"
     }
-  },
-  "PRAGMATA": {
-    "developer": "CAPCOM Co., Ltd.",
-    "publisher": "CAPCOM Co., Ltd.",
-    "release": "Apr 16, 2026",
-    "genres": [
-      "Action",
-      "Adventure"
-    ],
-    "rating": "",
-    "atr": "",
-    "desc": "Pragmata is a unique, sci-fi action-adventure game from Capcom. Follow Hugh, a member of an ill-fated investigation team, and Diana, a young android, as they navigate a lunar facility taken over by rogue AI in search of a way to Earth.",
-    "tags": [
-      "2026"
-    ],
-    "quote": "",
-    "appid": "3357650",
-    "min_req": {
-      "os": "Windows 11 (64 bit)",
-      "cpu": "Intel Core i5-8500 / AMD Ryzen 5 3500",
-      "ram": "16 GB RAM",
-      "gpu": "NVIDIA GeForce GTX 1660 6 GB / Radeon RX 5500 XT 8 GB",
-      "directx": "Version 12",
-      "storage": "40 GB available space"
-    },
-    "rec_req": {
-      "os": "Windows 11 (64 bit)",
-      "cpu": "Intel Core i7-8700 / AMD Ryzen 5 5500",
-      "ram": "16 GB RAM",
-      "gpu": "NVIDIA GeForce RTX 2060 Super 8GB / Radeon RX 6600 8GB",
-      "directx": "Version 12",
-      "storage": "40 GB available space"
-    }
   }
 }
