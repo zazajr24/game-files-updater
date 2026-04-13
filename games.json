@@ -364,5 +364,12 @@
     "image": "",
     "size": 0.0,
     "appid": "3764200"
+  },
+  {
+    "name": "PRAGMATA",
+    "url": "steam_depot",
+    "image": "pragmata_deluxe_edition.png",
+    "size": 11.0,
+    "appid": "3357650"
   }
 ]
