@@ -24,5 +24,23 @@
       "type": "Deluxe Edition",
       "included": true
     }
+  ],
+  "Resident Evil Requiem": [
+    {
+      "name": "Resident Evil Requiem - Deluxe Kit",
+      "desc": "Requiem for the dead. Nightmare for the living.",
+      "price": "14.99",
+      "appid": "3990820",
+      "type": "Deluxe Edition",
+      "included": true
+    },
+    {
+      "name": "Resident Evil Requiem Original Soundtrack",
+      "desc": "Introducing the Resident Evil Requiem Soundtrack!",
+      "price": "12.99",
+      "appid": "4460240",
+      "type": "Deluxe Edition",
+      "included": true
+    }
   ]
 }
