@@ -34,39 +34,6 @@
       "storage": "40 GB available space"
     }
   },
-  "Resident Evil Requiem": {
-    "developer": "CAPCOM Co., Ltd.",
-    "publisher": "CAPCOM Co., Ltd.",
-    "release": "Feb 26, 2026",
-    "genres": [
-      "Action",
-      "Adventure"
-    ],
-    "rating": "",
-    "atr": "",
-    "desc": "Requiem for the dead. Nightmare for the living. Prepare to escape death in a heart-stopping experience that will chill you to your core.",
-    "tags": [
-      "2026"
-    ],
-    "quote": "",
-    "appid": "3764200",
-    "min_req": {
-      "os": "Windows 11 (64bit required)",
-      "cpu": "Intel corei5-8500 / AMD Ryzen 5 3500",
-      "ram": "16 GB RAM",
-      "gpu": "GeForce GTX 1660 6GB /  Radeon RX 5500 XT 8GB",
-      "directx": "Version 12",
-      "storage": ""
-    },
-    "rec_req": {
-      "os": "Windows 11 (64bit required)",
-      "cpu": "Intel Core i7-8700 / AMD Ryzen 5 5500",
-      "ram": "16 GB RAM",
-      "gpu": "GeForce RTX 2060 Super 8GB / Radeon RX 6600 8GB",
-      "directx": "Version 12",
-      "storage": ""
-    }
-  },
   "Crimson Desert": {
     "developer": "Pearl Abyss",
     "publisher": "Pearl Abyss",
