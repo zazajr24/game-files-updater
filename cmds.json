@@ -1637,61 +1637,6 @@
       }
     ]
   },
-  "Resident Evil Requiem": {
-    "game": "Resident Evil Requiem",
-    "manifest_folder": "Manifests/Resident Evil Requiem Manifests and Keys",
-    "key_file": "3764200.key",
-    "depots": [
-      {
-        "app": "3764200",
-        "depot": "3764201",
-        "manifest": "9166256367562763038",
-        "mf": "3764201_9166256367562763038.manifest",
-        "label": "Base Game",
-        "key": "3764200.key"
-      },
-      {
-        "app": "3764200",
-        "depot": "3764203",
-        "manifest": "651754783565368360",
-        "mf": "3764203_651754783565368360.manifest",
-        "label": "Pack 1",
-        "key": "3764200.key"
-      },
-      {
-        "app": "3764200",
-        "depot": "3764205",
-        "manifest": "4436866528626191669",
-        "mf": "3764205_4436866528626191669.manifest",
-        "label": "Pack 2",
-        "key": "3764200.key"
-      },
-      {
-        "app": "3764200",
-        "depot": "3764206",
-        "manifest": "136565968785594279",
-        "mf": "3764206_136565968785594279.manifest",
-        "label": "Pack 3",
-        "key": "3764200.key"
-      },
-      {
-        "app": "3764200",
-        "depot": "3990800",
-        "manifest": "9181787779883827112",
-        "mf": "3990800_9181787779883827112.manifest",
-        "label": "Pack 4",
-        "key": "3764200.key"
-      },
-      {
-        "app": "3764200",
-        "depot": "3990820",
-        "manifest": "509708311968316285",
-        "mf": "3990820_509708311968316285.manifest",
-        "label": "Pack 5",
-        "key": "3764200.key"
-      }
-    ]
-  },
   "Sniper Elite Resistance": {
     "game": "Sniper Elite Resistance",
     "manifest_folder": "Manifests/Sniper Elite Resistance Manifests and Keys",
