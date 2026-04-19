@@ -770,5 +770,37 @@
       "directx": "Version 11",
       "storage": "18 GB available space"
     }
+  },
+  "SONIC X SHADOW GENERATIONS": {
+    "developer": "Sonic Team",
+    "publisher": "SEGA",
+    "release": "Oct 24, 2024",
+    "genres": [
+      "Action"
+    ],
+    "rating": "",
+    "atr": "",
+    "desc": "Shadow the Hedgehog is back with Classic and Modern Sonic in SONIC X SHADOW GENERATIONS, an all-new collection featuring two unique experiences!",
+    "tags": [
+      "2024"
+    ],
+    "quote": "",
+    "appid": "2513280",
+    "min_req": {
+      "os": "Windows 10",
+      "cpu": "Intel Core i3-2120 or FX-6300",
+      "ram": "8 GB RAM",
+      "gpu": "NVIDIA GeForce GTX 550 Ti, 1GB or AMD Radeon HD 5770, 1GB",
+      "directx": "Version 11",
+      "storage": "35.3 GB available space"
+    },
+    "rec_req": {
+      "os": "Windows 10",
+      "cpu": "Intel Core i7-2600 or AMD Ryzen 5 1400",
+      "ram": "12 GB RAM",
+      "gpu": "NVIDIA GeForce GTX 780, 3GB or AMD Radeon RX 470, 4GB or Intel Arc A310, 4GB",
+      "directx": "Version 11",
+      "storage": "35.3 GB available space"
+    }
   }
 }
