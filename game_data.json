@@ -422,31 +422,6 @@
       "stor": "20 GB available space"
     }
   },
-  "GRID Legends Deluxe": {
-    "developer": "Codemasters",
-    "publisher": "Electronic Arts",
-    "release": "Feb 24, 2022",
-    "genres": [
-      "Racing"
-    ],
-    "desc": "Upgrade to the Deluxe Edition today for exclusive GRID Legends content, including new story experiences, bonus Career events, customization items, and more.",
-    "min_req": {
-      "os": "64-bit Windows 10/11",
-      "cpu": "Intel i3 2130, AMD FX4300",
-      "ram": "8 GB RAM",
-      "gpu": "NVIDIA GTX 950, AMD RADEON RX 460",
-      "dx": "Version 12",
-      "stor": "50 GB available space"
-    },
-    "rec_req": {
-      "os": "64-bit Windows 10/11",
-      "cpu": "Intel i5 8600k, AMD Ryzen 5 2600x",
-      "ram": "16 GB RAM",
-      "gpu": "Nvidia GTX 1080, AMD RX590",
-      "dx": "Version 12",
-      "stor": "50 GB available space"
-    }
-  },
   "Hatsune Miku Project DIVA Mega Mix+": {
     "developer": "SEGA",
     "publisher": "SEGA",
