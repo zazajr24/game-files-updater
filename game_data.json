@@ -737,5 +737,38 @@
       "directx": "Version 11",
       "storage": "100 GB available space"
     }
+  },
+  "Warhammer 40,000: Chaos Gate - Daemonhunters": {
+    "developer": "Complex Games",
+    "publisher": "Frontier Foundry",
+    "release": "May 5, 2022",
+    "genres": [
+      "RPG",
+      "Strategy"
+    ],
+    "rating": "",
+    "atr": "",
+    "desc": "Lead humanity’s greatest weapon, the Grey Knights, in this fast-paced turn-based tactical RPG. Root out and purge a galaxy-spanning plague in a cinematic, story-driven campaign, using the tactics and talents of your own personalised squad of Daemonhunters.",
+    "tags": [
+      "2022"
+    ],
+    "quote": "",
+    "appid": "1611910",
+    "min_req": {
+      "os": "",
+      "cpu": "Intel i5-4590 / AMD FX-8350",
+      "ram": "8 GB RAM",
+      "gpu": "NVIDIA GeForce GTX 770 / AMD Radeon R9 280X",
+      "directx": "Version 11",
+      "storage": "18 GB available space"
+    },
+    "rec_req": {
+      "os": "",
+      "cpu": "Intel i7-7700 / AMD Ryzen 7 2700",
+      "ram": "16 GB RAM",
+      "gpu": "NVIDIA GeForce GTX 1060 / AMD Radeon RX 580",
+      "directx": "Version 11",
+      "storage": "18 GB available space"
+    }
   }
 }
