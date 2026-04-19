@@ -24,5 +24,39 @@
       "type": "Deluxe Edition",
       "included": true
     }
+  ],
+  "FINAL FANTASY XV WINDOWS EDITION": [
+    {
+      "name": "FFXV WINDOWS EDITION 4K Resolution Pack",
+      "desc": "This pack allows you to enjoy FINAL FANTASY XV in high resolution.",
+      "price": "",
+      "appid": "771560",
+      "type": "Deluxe Edition",
+      "included": true
+    },
+    {
+      "name": "FINAL FANTASY XV EPISODE ARDYN",
+      "desc": "FINAL FANTASY XV illustrates the past of the mysterious man Ardyn, the greatest enemy of the protagonist Noctis. Denied by the Crystal and at the mercy of fate, the origins of Ardyn's revenge and his emotional conflicts are all revealed.",
+      "price": "4.99",
+      "appid": "977610",
+      "type": "Deluxe Edition",
+      "included": true
+    },
+    {
+      "name": "FINAL FANTASY XV Original Soundtrack",
+      "desc": "The FINAL FANTASY XV Original Soundtrack heralds the dawn of a new age in FF music. The main composer, Yoko Shimomura, brings her signature dramatic compositions to this masterpiece. *The tracklist differs from the Blu-ray version. *This is an audio-only album and does not include video content.",
+      "price": "29.95",
+      "appid": "3372340",
+      "type": "Deluxe Edition",
+      "included": true
+    },
+    {
+      "name": "Piano Collections - FINAL FANTASY XV: Moonlit Melodies",
+      "desc": "The music of the FF XV soundtrack returns as an entry in the Piano Collections series. Produced by Yoko Shimomura, this album includes a selection of pieces she most wanted to hear brought to life on the keyboard. Let these cool and clear melodies take you to another musical world.",
+      "price": "18.99",
+      "appid": "4425360",
+      "type": "Deluxe Edition",
+      "included": true
+    }
   ]
 }
