@@ -802,5 +802,38 @@
       "directx": "Version 11",
       "storage": "35.3 GB available space"
     }
+  },
+  "NBA 2K25": {
+    "developer": "Visual Concepts",
+    "publisher": "2K",
+    "release": "Oct 28, 2024",
+    "genres": [
+      "Simulation",
+      "Sports"
+    ],
+    "rating": "",
+    "atr": "",
+    "desc": "Command every court with authenticity and realism Powered by ProPLAY™, giving you ultimate control over how you play in NBA 2K25. Define your legacy in MyCAREER, MyTEAM, MyNBA, and The W.",
+    "tags": [
+      "2024"
+    ],
+    "quote": "",
+    "appid": "2878980",
+    "min_req": {
+      "os": "Windows 10 64-Bit (latest update)",
+      "cpu": "Intel® Core™ i3-9100 or AMD Ryzen™ 3 1200",
+      "ram": "8 GB RAM",
+      "gpu": "NVIDIA® GeForce® GTX 960 4 GB or AMD Radeon™ RX 570 4 GB or Intel® Arc™ A580",
+      "directx": "Version 12",
+      "storage": "150 GB available space"
+    },
+    "rec_req": {
+      "os": "Windows 10 64-Bit (latest update)",
+      "cpu": "Intel® Core™ i5-10600 or AMD Ryzen™ 5 3600X",
+      "ram": "16 GB RAM",
+      "gpu": "NVIDIA® GeForce® RTX 2070 8 GB or AMD Radeon™ RX 5700 8 GB or Intel® Arc™ A770",
+      "directx": "Version 12",
+      "storage": "150 GB available space"
+    }
   }
 }
