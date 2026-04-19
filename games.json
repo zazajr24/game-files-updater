@@ -87,20 +87,20 @@
     "sort_order": 8
   },
   {
-    "name": "NBA 2K25",
-    "url": "steam_depot",
-    "image": "NBA_2K25.jpg",
-    "appid": "2878980",
-    "coming_soon": false,
-    "sort_order": 9
-  },
-  {
     "name": "Avatar: Frontiers of Pandora",
     "url": "steam_depot",
     "image": "AvatarFrontiersofPandora.png",
     "size": 106.0,
     "version": "",
     "build_id": "",
+    "coming_soon": false,
+    "sort_order": 9
+  },
+  {
+    "name": "NBA 2K25",
+    "url": "steam_depot",
+    "image": "NBA_2K25.jpg",
+    "appid": "2878980",
     "coming_soon": false,
     "sort_order": 10
   },
