@@ -245,16 +245,6 @@
     "sort_order": 20
   },
   {
-    "name": "GRID Legends Deluxe",
-    "url": "steam_depot",
-    "image": "GL.png",
-    "size": 37.0,
-    "version": "",
-    "build_id": "",
-    "coming_soon": false,
-    "sort_order": 21
-  },
-  {
     "name": "Hatsune Miku Project DIVA Mega Mix+",
     "url": "steam_depot",
     "image": "HatsuneMiku.png",
