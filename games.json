@@ -1,5 +1,14 @@
 [
   {
+    "name": "FINAL FANTASY XV WINDOWS EDITION",
+    "url": "steam_depot",
+    "image": "FINAL_FANTASY_XV_WINDOWS_EDITION.jpg",
+    "appid": "637650",
+    "size": 78.0,
+    "added_at": 1776623497,
+    "newly_added": true
+  },
+  {
     "name": "Life is Strange: Reunion",
     "url": "steam_depot",
     "image": "LisReunion.png",
