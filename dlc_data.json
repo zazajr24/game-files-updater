@@ -92,5 +92,39 @@
       "type": "Deluxe Edition",
       "included": true
     }
+  ],
+  "SONIC X SHADOW GENERATIONS": [
+    {
+      "name": "SONIC X SHADOW GENERATIONS: Sonic the Hedgehog 3 Movie Pack",
+      "desc": "An additional level and skin for Shadow.",
+      "price": "5.99",
+      "appid": "2983600",
+      "type": "Deluxe Edition",
+      "included": true
+    },
+    {
+      "name": "SONIC X SHADOW GENERATIONS: Sonic Jam Legacy Skin",
+      "desc": "A legacy skin for Classic Sonic inspired by his look in Sonic Jam.",
+      "price": "",
+      "appid": "2909790",
+      "type": "Deluxe Edition",
+      "included": true
+    },
+    {
+      "name": "SONIC X SHADOW GENERATIONS: Art Book with Mini Soundtrack",
+      "desc": "Includes digital artbook and OST.",
+      "price": "11.99",
+      "appid": "2999160",
+      "type": "Deluxe Edition",
+      "included": true
+    },
+    {
+      "name": "SONIC X SHADOW GENERATIONS: Extra Content Pack",
+      "desc": "Includes: -Terios Skin -Extra BGM Pack -Skill Points (Sonic Generations)",
+      "price": "11.99",
+      "appid": "2909770",
+      "type": "Deluxe Edition",
+      "included": true
+    }
   ]
 }
