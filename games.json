@@ -1,5 +1,14 @@
 [
   {
+    "name": "SONIC X SHADOW GENERATIONS",
+    "url": "steam_depot",
+    "image": "SONIC_X_SHADOW_GENERATIONS.png",
+    "appid": "2513280",
+    "size": 23.0,
+    "added_at": 1776624040,
+    "newly_added": true
+  },
+  {
     "name": "Warhammer 40,000: Chaos Gate - Daemonhunters",
     "url": "steam_depot",
     "image": "Warhammer_40000_Chaos_Gate_-_Daemonhunters.jpg",
