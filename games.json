@@ -1,20 +1,12 @@
 [
   {
-    "name": "NBA 2K25",
-    "url": "steam_depot",
-    "image": "NBA_2K25.jpg",
-    "appid": "2878980",
-    "added_at": 1776626453,
-    "newly_added": true
-  },
-  {
     "name": "SONIC X SHADOW GENERATIONS",
     "url": "steam_depot",
     "image": "SONIC_X_SHADOW_GENERATIONS.png",
     "appid": "2513280",
     "size": 23.0,
-    "added_at": 1776624040,
-    "newly_added": true
+    "coming_soon": false,
+    "sort_order": 0
   },
   {
     "name": "Warhammer 40,000: Chaos Gate - Daemonhunters",
@@ -22,8 +14,8 @@
     "image": "Warhammer_40000_Chaos_Gate_-_Daemonhunters.jpg",
     "appid": "1611910",
     "size": 13.0,
-    "added_at": 1776623672,
-    "newly_added": true
+    "coming_soon": false,
+    "sort_order": 1
   },
   {
     "name": "FINAL FANTASY XV WINDOWS EDITION",
@@ -31,8 +23,8 @@
     "image": "FINAL_FANTASY_XV_WINDOWS_EDITION.jpg",
     "appid": "637650",
     "size": 78.0,
-    "added_at": 1776623497,
-    "newly_added": true
+    "coming_soon": false,
+    "sort_order": 2
   },
   {
     "name": "Life is Strange: Reunion",
@@ -42,7 +34,7 @@
     "version": "",
     "build_id": "",
     "coming_soon": false,
-    "sort_order": 0
+    "sort_order": 3
   },
   {
     "name": "Crimson Desert",
@@ -52,7 +44,7 @@
     "version": "",
     "build_id": "",
     "coming_soon": false,
-    "sort_order": 1
+    "sort_order": 4
   },
   {
     "name": "WWE 2K26",
@@ -62,7 +54,7 @@
     "version": "",
     "build_id": "",
     "coming_soon": false,
-    "sort_order": 2
+    "sort_order": 5
   },
   {
     "name": "Undisputed",
@@ -72,7 +64,7 @@
     "version": "",
     "build_id": "",
     "coming_soon": false,
-    "sort_order": 3
+    "sort_order": 6
   },
   {
     "name": "Assassin's Creed Mirage",
@@ -82,7 +74,7 @@
     "version": "",
     "build_id": "",
     "coming_soon": false,
-    "sort_order": 4
+    "sort_order": 7
   },
   {
     "name": "Assassin's Creed Shadows",
@@ -92,7 +84,15 @@
     "version": "",
     "build_id": "",
     "coming_soon": false,
-    "sort_order": 5
+    "sort_order": 8
+  },
+  {
+    "name": "NBA 2K25",
+    "url": "steam_depot",
+    "image": "NBA_2K25.jpg",
+    "appid": "2878980",
+    "coming_soon": false,
+    "sort_order": 9
   },
   {
     "name": "Avatar: Frontiers of Pandora",
@@ -102,7 +102,7 @@
     "version": "",
     "build_id": "",
     "coming_soon": false,
-    "sort_order": 6
+    "sort_order": 10
   },
   {
     "name": "Black Myth: Wukong",
@@ -112,7 +112,7 @@
     "version": "",
     "build_id": "",
     "coming_soon": false,
-    "sort_order": 7
+    "sort_order": 11
   },
   {
     "name": "Borderlands 4 Super Deluxe",
@@ -122,7 +122,7 @@
     "version": "",
     "build_id": "",
     "coming_soon": false,
-    "sort_order": 8
+    "sort_order": 12
   },
   {
     "name": "CODE VEIN II",
@@ -132,7 +132,7 @@
     "version": "",
     "build_id": "",
     "coming_soon": false,
-    "sort_order": 9
+    "sort_order": 13
   },
   {
     "name": "Construction Simulator",
@@ -142,7 +142,7 @@
     "version": "",
     "build_id": "",
     "coming_soon": false,
-    "sort_order": 10
+    "sort_order": 14
   },
   {
     "name": "Dead Space 2023",
@@ -152,7 +152,7 @@
     "version": "",
     "build_id": "",
     "coming_soon": false,
-    "sort_order": 11
+    "sort_order": 15
   },
   {
     "name": "Demon Slayer Chronicles 2",
@@ -162,7 +162,7 @@
     "version": "",
     "build_id": "",
     "coming_soon": false,
-    "sort_order": 12
+    "sort_order": 16
   },
   {
     "name": "DEATH STRANDING 2 ON THE BEACH",
@@ -172,7 +172,7 @@
     "version": "",
     "build_id": "",
     "coming_soon": false,
-    "sort_order": 13
+    "sort_order": 17
   },
   {
     "name": "DOOM: The Dark Ages",
@@ -182,7 +182,7 @@
     "version": "",
     "build_id": "",
     "coming_soon": false,
-    "sort_order": 14
+    "sort_order": 18
   },
   {
     "name": "Dragon's Dogma 2",
@@ -192,7 +192,7 @@
     "version": "",
     "build_id": "",
     "coming_soon": false,
-    "sort_order": 15
+    "sort_order": 19
   },
   {
     "name": "EA SPORTS FC 24",
@@ -202,7 +202,7 @@
     "version": "",
     "build_id": "",
     "coming_soon": false,
-    "sort_order": 16
+    "sort_order": 20
   },
   {
     "name": "EA SPORTS FC 25",
@@ -212,7 +212,7 @@
     "version": "",
     "build_id": "",
     "coming_soon": false,
-    "sort_order": 17
+    "sort_order": 21
   },
   {
     "name": "EA SPORTS WRC",
@@ -222,7 +222,7 @@
     "version": "",
     "build_id": "",
     "coming_soon": false,
-    "sort_order": 18
+    "sort_order": 22
   },
   {
     "name": "F1 25 Champions",
@@ -232,7 +232,7 @@
     "version": "",
     "build_id": "",
     "coming_soon": false,
-    "sort_order": 19
+    "sort_order": 23
   },
   {
     "name": "Football Manager 26",
@@ -242,7 +242,7 @@
     "version": "",
     "build_id": "",
     "coming_soon": false,
-    "sort_order": 20
+    "sort_order": 24
   },
   {
     "name": "Hatsune Miku Project DIVA Mega Mix+",
@@ -252,7 +252,7 @@
     "version": "",
     "build_id": "",
     "coming_soon": false,
-    "sort_order": 22
+    "sort_order": 25
   },
   {
     "name": "Hogwarts Legacy",
@@ -262,7 +262,7 @@
     "version": "",
     "build_id": "",
     "coming_soon": false,
-    "sort_order": 23
+    "sort_order": 26
   },
   {
     "name": "Jurassic World Evolution 2",
@@ -272,7 +272,7 @@
     "version": "",
     "build_id": "",
     "coming_soon": false,
-    "sort_order": 24
+    "sort_order": 27
   },
   {
     "name": "Like a Dragon: Infinite Wealth",
@@ -282,7 +282,7 @@
     "version": "",
     "build_id": "",
     "coming_soon": false,
-    "sort_order": 25
+    "sort_order": 28
   },
   {
     "name": "Madden NFL 26",
@@ -292,7 +292,7 @@
     "version": "",
     "build_id": "",
     "coming_soon": false,
-    "sort_order": 26
+    "sort_order": 29
   },
   {
     "name": "Mafia The Old Country",
@@ -302,7 +302,7 @@
     "version": "",
     "build_id": "",
     "coming_soon": false,
-    "sort_order": 27
+    "sort_order": 30
   },
   {
     "name": "Monster Hunter Wilds",
@@ -312,7 +312,7 @@
     "version": "",
     "build_id": "",
     "coming_soon": false,
-    "sort_order": 28
+    "sort_order": 31
   },
   {
     "name": "Mortal Kombat 1",
@@ -322,7 +322,7 @@
     "version": "",
     "build_id": "",
     "coming_soon": false,
-    "sort_order": 29
+    "sort_order": 32
   },
   {
     "name": "Need for Speed Unbound",
@@ -332,7 +332,7 @@
     "version": "",
     "build_id": "",
     "coming_soon": false,
-    "sort_order": 30
+    "sort_order": 33
   },
   {
     "name": "Persona 3 Reload Premium",
@@ -342,7 +342,7 @@
     "version": "",
     "build_id": "",
     "coming_soon": false,
-    "sort_order": 31
+    "sort_order": 34
   },
   {
     "name": "Persona 5 Royal",
@@ -352,7 +352,7 @@
     "version": "",
     "build_id": "",
     "coming_soon": false,
-    "sort_order": 32
+    "sort_order": 35
   },
   {
     "name": "Planet Coaster 2",
@@ -362,7 +362,7 @@
     "version": "",
     "build_id": "",
     "coming_soon": false,
-    "sort_order": 33
+    "sort_order": 36
   },
   {
     "name": "Planet Zoo",
@@ -372,7 +372,7 @@
     "version": "",
     "build_id": "",
     "coming_soon": false,
-    "sort_order": 34
+    "sort_order": 37
   },
   {
     "name": "Prince of Persia The Lost Crown",
@@ -382,7 +382,7 @@
     "version": "",
     "build_id": "",
     "coming_soon": false,
-    "sort_order": 35
+    "sort_order": 38
   },
   {
     "name": "Sniper Elite: Resistance",
@@ -392,7 +392,7 @@
     "version": "",
     "build_id": "",
     "coming_soon": false,
-    "sort_order": 36
+    "sort_order": 39
   },
   {
     "name": "Sonic Frontiers",
@@ -402,7 +402,7 @@
     "version": "",
     "build_id": "",
     "coming_soon": false,
-    "sort_order": 37
+    "sort_order": 40
   },
   {
     "name": "Star Wars Outlaws",
@@ -412,7 +412,7 @@
     "version": "",
     "build_id": "",
     "coming_soon": false,
-    "sort_order": 38
+    "sort_order": 41
   },
   {
     "name": "Stellar Blade",
@@ -422,7 +422,7 @@
     "version": "",
     "build_id": "",
     "coming_soon": false,
-    "sort_order": 39
+    "sort_order": 42
   },
   {
     "name": "Street Fighter 6",
@@ -432,7 +432,7 @@
     "version": "",
     "build_id": "",
     "coming_soon": false,
-    "sort_order": 40
+    "sort_order": 43
   },
   {
     "name": "The First Berserker: Khazan",
@@ -442,7 +442,7 @@
     "version": "",
     "build_id": "",
     "coming_soon": false,
-    "sort_order": 41
+    "sort_order": 44
   },
   {
     "name": "Two Point Campus",
@@ -452,7 +452,7 @@
     "version": "",
     "build_id": "",
     "coming_soon": false,
-    "sort_order": 42
+    "sort_order": 45
   },
   {
     "name": "Yakuza Kiwami 3 & Dark Ties",
@@ -462,7 +462,7 @@
     "version": "",
     "build_id": "",
     "coming_soon": false,
-    "sort_order": 43
+    "sort_order": 46
   },
   {
     "name": "F1® Manager 2024",
@@ -471,6 +471,6 @@
     "size": 0.0,
     "appid": "2591280",
     "coming_soon": false,
-    "sort_order": 44
+    "sort_order": 47
   }
 ]
