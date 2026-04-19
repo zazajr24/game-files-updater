@@ -1,5 +1,13 @@
 [
   {
+    "name": "NBA 2K25",
+    "url": "steam_depot",
+    "image": "NBA_2K25.jpg",
+    "appid": "2878980",
+    "added_at": 1776626453,
+    "newly_added": true
+  },
+  {
     "name": "SONIC X SHADOW GENERATIONS",
     "url": "steam_depot",
     "image": "SONIC_X_SHADOW_GENERATIONS.png",
