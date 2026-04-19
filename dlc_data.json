@@ -58,5 +58,39 @@
       "type": "Deluxe Edition",
       "included": true
     }
+  ],
+  "Warhammer 40,000: Chaos Gate - Daemonhunters": [
+    {
+      "name": "Warhammer 40,000: Chaos Gate - Daemonhunters - Execution Force",
+      "desc": "Unleash the power of the elite Officio Assassinorum! Command four new playable units with unparalleled skills. Stand firm against insidious Tentarus Hives on unsettling new maps and engage in intense new boarding missions against the corrupted Death Guard.",
+      "price": "14.99",
+      "appid": "2421890",
+      "type": "Deluxe Edition",
+      "included": true
+    },
+    {
+      "name": "Warhammer 40,000: Chaos Gate - Daemonhunters - Duty Eternal",
+      "desc": "Experience thrilling new missions, a powerful additional class, and all-new ways to decimate the forces of Nurgle in the first major DLC for the critically-acclaimed tactical turn-based RPG.",
+      "price": "14.99",
+      "appid": "2126610",
+      "type": "Deluxe Edition",
+      "included": true
+    },
+    {
+      "name": "Warhammer 40,000: Chaos Gate - Daemonhunters - Castellan Champion Upgrade Pack",
+      "desc": "The Castellan Champion Upgrade Pack includes the unique playable character Castellan Garran Crowe, and the Warhammer 40,000: Chaos Gate – Daemonhunters Original Soundtrack.",
+      "price": "14.99",
+      "appid": "1883510",
+      "type": "Deluxe Edition",
+      "included": true
+    },
+    {
+      "name": "Warhammer 40,000: Chaos Gate - Daemonhunters - Original Soundtrack",
+      "desc": "Transport yourself to the Warhammer 40,000 universe with the epic tracks (plus one bonus track) from the game. Brought to you by famed composer Doyle W. Donehoo.",
+      "price": "9.99",
+      "appid": "1883500",
+      "type": "Deluxe Edition",
+      "included": true
+    }
   ]
 }
