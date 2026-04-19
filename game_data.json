@@ -705,5 +705,37 @@
       "gpu": "NVIDIA GeForce GTX 1070 (8GB) or AMD Radeon RX 580 (8GB)",
       "stor": "16 GB available space"
     }
+  },
+  "FINAL FANTASY XV WINDOWS EDITION": {
+    "developer": "Square Enix",
+    "publisher": "Square Enix",
+    "release": "Mar 6, 2018",
+    "genres": [
+      "RPG"
+    ],
+    "rating": "",
+    "atr": "",
+    "desc": "Take the journey, now in ultimate quality. Boasting a wealth of bonus content and supporting ultra high-resolution graphical options and HDR 10, you can now enjoy the beautiful and carefully-crafted experience of FINAL FANTASY XV like never before.",
+    "tags": [
+      "2018"
+    ],
+    "quote": "",
+    "appid": "637650",
+    "min_req": {
+      "os": "",
+      "cpu": "Intel® Core™ i5-2500（3.3GHz and above）/ AMD FX™-6100 （3.3GHz and above）",
+      "ram": "8 GB RAM",
+      "gpu": "NVIDIA® GeForce® GTX 760 / NVIDIA® GeForce® GTX 1050 / AMD Radeon™ R9 280",
+      "directx": "Version 11",
+      "storage": "100 GB available space"
+    },
+    "rec_req": {
+      "os": "",
+      "cpu": "Intel® Core™ i7-3770（3.4GHz and above）/ AMD FX™-8350（4.0 GHz and above）",
+      "ram": "16 GB RAM",
+      "gpu": "NVIDIA® GeForce® GTX 1060 6 GB VRAM / Radeon™ RX 480",
+      "directx": "Version 11",
+      "storage": "100 GB available space"
+    }
   }
 }
