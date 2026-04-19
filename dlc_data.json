@@ -126,5 +126,39 @@
       "type": "Deluxe Edition",
       "included": true
     }
+  ],
+  "NBA 2K25": [
+    {
+      "name": "NBA 2K25 Hall of Fame Pass: Season 9",
+      "desc": "The Hall of Fame Pass: Season 9 includes everything in the Pro Pass: Season 9, a 15% XP Booster, 10 Level Skips, &amp; 15,000 VC! *NBA 2K25 Hall of Fame Pass requires base game, internet connection and NBA 2K Account.",
+      "price": "19.99",
+      "appid": "2974990",
+      "type": "Deluxe Edition",
+      "included": true
+    },
+    {
+      "name": "NBA 2K25 Pro Pass: Season 9",
+      "desc": "The Pro Pass: Season 9 unlocks access to 40 levels of premium rewards! Get the Pro Pass: Season 9 &amp; automatically receive 4 additional Season Pass Rewards. *NBA 2K25 Pro Pass requires base game, internet connection and NBA 2K Account.",
+      "price": "9.99",
+      "appid": "2974960",
+      "type": "Deluxe Edition",
+      "included": true
+    },
+    {
+      "name": "NBA 2K25 MyCAREER Bonus Offer: Season 9",
+      "desc": "NBA 2K25 Season 9 MyCAREER Bonus Offer includes 75,000 VC, a 120-Minutes 2XP Coin (MC), Black Spiked Armor, and a Light Blue Denim Jeans with Chain for your MyPLAYER.",
+      "price": "19.99",
+      "appid": "3313060",
+      "type": "Deluxe Edition",
+      "included": true
+    },
+    {
+      "name": "NBA 2K25 MyTEAM Bonus Offer: Season 9",
+      "desc": "NBA 2K25 Season 9 MyTEAM Bonus Offer includes 75,000 VC, a 120-Minutes 2XP Coin (MT), a 100 OVR Player Pack (UA), and 10,000 MyTEAM Points.",
+      "price": "19.99",
+      "appid": "3313050",
+      "type": "Deluxe Edition",
+      "included": true
+    }
   ]
 }
