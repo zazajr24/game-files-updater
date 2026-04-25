@@ -6,9 +6,7 @@
     "appid": "3357650",
     "size": 34.0,
     "coming_soon": false,
-    "sort_order": 0,
-    "is_new": true,
-    "addedAt": 1777148623331
+    "sort_order": 0
   },
   {
     "name": "SONIC X SHADOW GENERATIONS",
@@ -58,15 +56,6 @@
     "sort_order": 5
   },
   {
-    "name": "Resident Evil Requiem",
-    "url": "steam_depot",
-    "image": "Resident_Evil_Requiem.webp",
-    "appid": "3764200",
-    "coming_soon": false,
-    "size": 72.0,
-    "sort_order": 6
-  },
-  {
     "name": "WWE 2K26",
     "url": "steam_depot",
     "image": "WWE2k26.png",
@@ -74,6 +63,15 @@
     "version": "",
     "build_id": "",
     "coming_soon": false,
+    "sort_order": 6
+  },
+  {
+    "name": "Resident Evil Requiem",
+    "url": "steam_depot",
+    "image": "Resident_Evil_Requiem.webp",
+    "appid": "3764200",
+    "coming_soon": false,
+    "size": 72.0,
     "sort_order": 7
   },
   {
