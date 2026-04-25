@@ -6,7 +6,10 @@
     "appid": "3357650",
     "size": 34.0,
     "added_at": 1777105208,
-    "newly_added": true
+    "newly_added": true,
+    "coming_soon": false,
+    "is_new": true,
+    "addedAt": 1777148015964
   },
   {
     "name": "SONIC X SHADOW GENERATIONS",
