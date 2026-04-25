@@ -160,5 +160,15 @@
       "type": "Deluxe Edition",
       "included": true
     }
+  ],
+  "PRAGMATA": [
+    {
+      "name": "PRAGMATA: Shelter Variety Pack",
+      "desc": "A pack with contents for the Shelter, a place of respite for Hugh and Diana. Enjoy PRAGMATA even more with costumes for Hugh and skins for his weapon, plus adorable new outfits and emotes that reveal a different side of Diana.",
+      "price": "14.99",
+      "appid": "3859930",
+      "type": "Deluxe Edition",
+      "included": true
+    }
   ]
 }
