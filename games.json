@@ -1,5 +1,16 @@
 [
   {
+    "name": "Resident Evil Requiem",
+    "url": "steam_depot",
+    "image": "Resident_Evil_Requiem.webp",
+    "appid": "3764200",
+    "coming_soon": false,
+    "addedAt": 1777148421792,
+    "size": 72.0,
+    "added_at": 1777148426,
+    "newly_added": true
+  },
+  {
     "name": "PRAGMATA",
     "url": "steam_depot",
     "image": "PRAGMATA.png",
