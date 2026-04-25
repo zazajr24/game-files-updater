@@ -880,5 +880,312 @@
       "storage": ""
     },
     "version": "v1.0"
+  },
+  "Need for Speed Unbound": {
+    "developer": "Criterion Games",
+    "publisher": "Electronic Arts",
+    "release": "Dec 1, 2022",
+    "genres": [
+      "Action",
+      "Racing"
+    ],
+    "desc": "Race to the top, definitely don’t flop. Outsmart the cops, and enter weekly qualifiers for The Grand: the ultimate street race. Pack your garage with precision-tuned, custom rides, and light up the streets with your style.",
+    "min_req": {
+      "os": "Windows 10 64-bit",
+      "cpu": "Ryzen 5 2600, Core i5-8600",
+      "ram": "8 GB RAM",
+      "gpu": "RX 570, GTX 1050 Ti",
+      "dx": "Version 12",
+      "stor": "50 GB available space"
+    },
+    "rec_req": {
+      "os": "Windows 10 64-bit",
+      "cpu": "Ryzen 5 3600, Core i7-8700",
+      "ram": "16 GB RAM",
+      "gpu": "Radeon RX5700 (8GB), GeForce RTX 2070 (8GB)",
+      "dx": "Version 12",
+      "stor": "50 GB available space"
+    }
+  },
+  "Persona 5 Royal": {
+    "developer": "ATLUS",
+    "publisher": "SEGA",
+    "release": "Oct 20, 2022",
+    "genres": [
+      "RPG"
+    ],
+    "desc": "Don the mask and join the Phantom Thieves of Hearts as they stage grand heists, infiltrate the minds of the corrupt, and make them change their ways!",
+    "min_req": {
+      "os": "Windows 10",
+      "cpu": "Intel Core i7-4790, 3.4 GHz | AMD Ryzen 5 1500X, 3.5 GHz",
+      "ram": "8 GB RAM",
+      "gpu": "Nvidia GeForce GTX 650 Ti, 2 GB | AMD Radeon R7 360, 2 GB",
+      "dx": "Version 11",
+      "stor": "41 GB available space"
+    },
+    "rec_req": {
+      "os": "Windows 10",
+      "cpu": "Intel Core i7-4790, 3.4 GHz | AMD Ryzen 5 1500X 3.5 Ghz",
+      "ram": "8 GB RAM",
+      "gpu": "Nvidia GeForce GTX 760, 2 GB | AMD Radeon HD 7870, 2 GB",
+      "dx": "Version 11",
+      "stor": "41 GB available space"
+    }
+  },
+  "Planet Coaster 2": {
+    "developer": "Frontier Developments",
+    "publisher": "Frontier Developments",
+    "release": "Nov 6, 2024",
+    "genres": [
+      "Simulation",
+      "Strategy"
+    ],
+    "desc": "Build and customise thrilling roller coasters and incredible water slides, manage the ultimate theme park experience, and share your epic creations. Are you ready to ride the wave?",
+    "min_req": {
+      "os": "Windows 10 64bit (22H2)",
+      "cpu": "Intel i5-6600K / AMD Ryzen 5 2600",
+      "ram": "16 GB RAM",
+      "gpu": "NVIDIA GeForce GTX 1060 (6GB VRAM) /  AMD Radeon RX 5600XT (6GB VRAM) /  Intel Arc A750 (8GB VRAM)",
+      "dx": "Version 12",
+      "stor": "25 GB available space"
+    },
+    "rec_req": {
+      "os": "Windows 10,11 64bit",
+      "cpu": "Intel i7-10700K / AMD Ryzen 7 5800",
+      "ram": "16 GB RAM",
+      "gpu": "NVIDIA GeForce RTX 2070 Super (8GB VRAM) /  AMD Radeon RX 6700 XT (12GB VRAM) /  Intel Arc A770 (16GB VRAM)",
+      "dx": "Version 12",
+      "stor": "25 GB available space"
+    }
+  },
+  "Prince of Persia The Lost Crown": {
+    "developer": "Ubisoft Montpellier",
+    "publisher": "Ubisoft",
+    "release": "Aug 8, 2024",
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "desc": "Dash into a stylish and thrilling action-adventure platformer set in a mythological Persian world where the boundaries of time and space are yours to manipulate.",
+    "min_req": {
+      "os": "Windows 10 (64 bit only)",
+      "cpu": "Intel Core i5-4460 3.4 GHz, AMD Ryzen3 1200 3.1 GHz",
+      "ram": "8 GB RAM",
+      "gpu": "NVIDIA GeForce GTX 950 (2GB VRAM) or AMD Radeon RX 5500 XT (4GB VRAM)",
+      "dx": "Version 11",
+      "stor": "30 GB available space"
+    },
+    "rec_req": {
+      "os": "Windows 10 (64 bit only)",
+      "cpu": "Intel Core i7-6700 3.4 GHz, AMD Ryzen5 1600 3.2 GHz",
+      "ram": "8 GB RAM",
+      "gpu": "NVIDIA GeForce GTX 960 (4GB VRAM) or AMD Radeon RX 5500 XT (4GB VRAM)",
+      "dx": "Version 11",
+      "stor": "30 GB available space"
+    }
+  },
+  "Sniper Elite: Resistance": {
+    "developer": "Rebellion",
+    "publisher": "Rebellion",
+    "release": "Jan 30, 2025",
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "desc": "Offering unparalleled sniping mechanics, stealth and tactical third-person combat, Sniper Elite: Resistance turns the attention of the award-winning series towards a hidden war, far from the front lines, deep within the heart of occupied France.",
+    "min_req": {
+      "os": "Windows 10 or later",
+      "cpu": "Intel CPU Core i5-9400f or equivalent",
+      "ram": "16 GB RAM",
+      "gpu": "Nvidia 2060, Intel Arc A750, AMD Radeon RX 6600 or equivalent (6GB minimum)",
+      "dx": "Version 12",
+      "stor": "95 GB available space"
+    }
+  },
+  "Sonic Frontiers": {
+    "developer": "Sonic Team",
+    "publisher": "SEGA",
+    "release": "Nov 7, 2022",
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "desc": "Experience Sonic like never before!",
+    "min_req": {
+      "os": "Windows 10",
+      "cpu": "Intel Core i5-3470 or AMD Ryzen 5 1400",
+      "ram": "8 GB RAM",
+      "gpu": "NVIDIA GeForce GTX 660, 2 GB or AMD Radeon HD 7870, 2 GB",
+      "dx": "Version 11",
+      "stor": "30 GB available space"
+    },
+    "rec_req": {
+      "os": "Windows 10",
+      "cpu": "Intel Core i5-6600 or AMD Ryzen 5 2600",
+      "ram": "12 GB RAM",
+      "gpu": "NVIDIA GeForce GTX 1070, 8 GB or AMD Radeon RX Vega 56, 8 GB",
+      "dx": "Version 11",
+      "stor": "30 GB available space"
+    }
+  },
+  "Star Wars Outlaws": {
+    "developer": "Massive Entertainment – A Ubisoft Studio",
+    "publisher": "Ubisoft",
+    "release": "Nov 21, 2024",
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "desc": "Experience the first-ever open world Star Wars™ game and explore distinct locations across the galaxy, both iconic and new. Risk it all as scoundrel Kay Vess, seeking freedom and the means to start a new life.",
+    "min_req": {
+      "os": "Windows 10, Windows 11 (64-bit versions)",
+      "cpu": "AMD Ryzen 5 3600 @ 3.6 GHz, Intel Core i7-8700K @ 3.70 GHz, or better",
+      "ram": "16 GB RAM",
+      "gpu": "NVIDIA GeForce GTX 1660 (6 GB), AMD RX 5600XT (6 GB), Intel Arc A750 (8 GB, with ReBAR on) or better",
+      "dx": "Version 12",
+      "stor": "65 GB available space"
+    },
+    "rec_req": {
+      "os": "Windows 10, Windows 11 (64-bit versions)",
+      "cpu": "AMD Ryzen 5 5600X @ 3.7 GHz, Intel Core i5-10400 @ 2.9 GHz, or better",
+      "ram": "16 GB RAM",
+      "gpu": "NVIDIA GeForce RTX 3060 Ti (8 GB), AMD Radeon RX 6700 XT (12 GB) or better",
+      "dx": "Version 12",
+      "stor": "65 GB available space"
+    }
+  },
+  "Stellar Blade": {
+    "developer": "SHIFT UP Corporation",
+    "publisher": "PlayStation Publishing LLC (excluding China)",
+    "release": "Jun 11, 2025",
+    "genres": [
+      "Action",
+      "Adventure",
+      "RPG"
+    ],
+    "desc": "Save humanity from extinction in post-apocalyptic action-adventure Stellar Blade™. Experience blistering combat and a twisting storyline as you unravel the mysteries of Earth’s downfall.",
+    "min_req": {
+      "os": "Windows 10 64-bit",
+      "cpu": "Intel® Core™ i5-7600k Processor / AMD Ryzen™ 5 1600X Processor",
+      "ram": "16 GB RAM",
+      "gpu": "NVIDIA GeForce GTX 1060 6GB or AMD Radeon RX 580 8GB",
+      "dx": "Version 12",
+      "stor": "75 GB available space"
+    },
+    "rec_req": {
+      "os": "Windows 10 64-bit",
+      "cpu": "Intel® Core™ i5-8400 Processor / AMD Ryzen™ 5 3600X Processor",
+      "ram": "16 GB RAM",
+      "gpu": "NVIDIA GeForce RTX 2060 SUPER  or AMD Radeon RX 5700 XT",
+      "dx": "Version 12",
+      "stor": "75 GB available space"
+    }
+  },
+  "Street Fighter 6": {
+    "developer": "CAPCOM Co., Ltd.",
+    "publisher": "CAPCOM Co., Ltd.",
+    "release": "Jun 1, 2023",
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "desc": "Here comes Capcom’s newest challenger! Street Fighter™ 6 launches worldwide on June 2nd, 2023 and represents the next evolution of the Street Fighter™ series! Street Fighter 6 spans three distinct game modes, including World Tour, Fighting Ground and Battle Hub.",
+    "min_req": {
+      "os": "Windows 10 (64 bit required)",
+      "cpu": "Intel Core i5-7500 / AMD Ryzen 3 1200",
+      "ram": "8 GB RAM",
+      "gpu": "GTX1060 (VRAM 6GB) / Radeon RX 580 (VRAM 4GB)",
+      "dx": "Version 12",
+      "stor": "60 GB available space"
+    },
+    "rec_req": {
+      "os": "Windows 10 (64 bit)/Windows 11 (64 bit)",
+      "cpu": "Intel Core i7 8700 / AMD Ryzen 5 3600",
+      "ram": "16 GB RAM",
+      "gpu": "RTX2070 / Radeon RX 5700XT",
+      "dx": "Version 12",
+      "stor": "60 GB available space"
+    }
+  },
+  "The First Berserker: Khazan": {
+    "developer": "Neople",
+    "publisher": "NEXON",
+    "release": "Mar 27, 2025",
+    "genres": [
+      "Action",
+      "Adventure",
+      "RPG"
+    ],
+    "desc": "The First Berserker: Khazan is a hardcore action role-playing game. The player will become Khazan, the great general of the Pell Los Empire, who overcame death, and sets out to reveal the incidents that led to his downfall and seek vengeance on his enemies.",
+    "min_req": {
+      "os": "Windows 10 64bit 22H2",
+      "cpu": "Intel Core i3-6300 or AMD Ryzen 3 1200",
+      "ram": "12 GB RAM",
+      "gpu": "GeForce GTX 970 or Radeon RX 580 or Arc A580",
+      "dx": "Version 11",
+      "stor": "70 GB available space"
+    },
+    "rec_req": {
+      "os": "Windows 11 21H2",
+      "cpu": "Intel Core i7-6700K or AMD Ryzen 5 3600",
+      "ram": "16 GB RAM",
+      "gpu": "GeForce RTX 2070 or Radeon RX 5700XT or Arc A750",
+      "dx": "Version 12",
+      "stor": "70 GB available space"
+    }
+  },
+  "Two Point Campus": {
+    "developer": "Two Point Studios",
+    "publisher": "SEGA",
+    "release": "Aug 9, 2022",
+    "genres": [
+      "Casual",
+      "Indie",
+      "Simulation",
+      "Strategy"
+    ],
+    "desc": "Build the university of your dreams with Two Point Campus, the sim with a twist from the makers of Two Point Hospital. Build, hire staff and run an academic institution packed with wild courses.",
+    "min_req": {
+      "cpu": "Intel Core i3 6100 or AMD FX-4350",
+      "ram": "4 GB RAM",
+      "gpu": "NVIDIA Geforce GT 1030, 2GB (Legacy: NVIDIA GeForce GTX 460), AMD RX550, 2GB (Legacy: AMD Radeon HD 6850), Integrated: Intel HD Graphics 630",
+      "dx": "Version 11",
+      "stor": "6 GB available space"
+    },
+    "rec_req": {
+      "os": "Windows 10  64-bit",
+      "cpu": "Intel Core i5 6600 or AMD Ryzen 1600x",
+      "ram": "8 GB RAM",
+      "gpu": "NVIDIA Geforce GTX 1060, 3 GB (Legacy: NVIDIA Geforce GTX 780, 4GB) or AMD RX 580, 4 GB (Legacy: AMD R9 290X, 4GB)",
+      "dx": "Version 11",
+      "stor": "6 GB available space"
+    }
+  },
+  "Yakuza Kiwami 3 & Dark Ties": {
+    "developer": "Ryu Ga Gotoku Studio",
+    "publisher": "SEGA",
+    "release": "Feb 11, 2026",
+    "genres": [
+      "Action",
+      "Adventure",
+      "RPG"
+    ],
+    "desc": "YAKUZA KIWAMI 3 is an extreme remake of the action-adventure beat 'em up Yakuza 3 featuring ex-yakuza Kazuma Kiryu's fight to protect those he loves. DARK TIES is a brand-new game featuring Yoshitaka Mine from Yakuza 3 included as a separate action-packed experience.",
+    "min_req": {
+      "os": "Windows 11",
+      "cpu": "Intel Core i3-8100,3.6GHz or AMD Ryzen 3 2300X,3.5GHz",
+      "ram": "8 GB RAM",
+      "gpu": "NVIDIA GeForce GTX1650,4GB or AMD Radeon RX6400,4GB or Intel Arc A380,6GB",
+      "dx": "Version 12",
+      "stor": "58 GB available space"
+    },
+    "rec_req": {
+      "os": "Windows 11",
+      "cpu": "Intel Core i5-8700K,3.7GHz or AMD Ryzen 5 2600X,3.6GHz",
+      "ram": "16 GB RAM",
+      "gpu": "NVIDIA GeForce RTX3060,12GB or AMD Radeon RX 7600,8GB or Intel Arc A770,8GB",
+      "dx": "Version 12",
+      "stor": "58 GB available space"
+    }
   }
 }
