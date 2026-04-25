@@ -1,5 +1,14 @@
 [
   {
+    "name": "PRAGMATA",
+    "url": "steam_depot",
+    "image": "PRAGMATA.png",
+    "appid": "3357650",
+    "size": 34.0,
+    "added_at": 1777105208,
+    "newly_added": true
+  },
+  {
     "name": "SONIC X SHADOW GENERATIONS",
     "url": "steam_depot",
     "image": "SONIC_X_SHADOW_GENERATIONS.png",
