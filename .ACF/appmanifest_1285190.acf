@@ -1,0 +1,85 @@
+"AppState"
+{
+ "appid"		"1285190"
+ "universe"		"1"
+ "LauncherPath"		"C:\\Program Files (x86)\\Steam\\steam.exe"
+ "name"		"Borderlands 4"
+ "StateFlags"		"4"
+ "installdir"		"Borderlands 4"
+ "LastUpdated"		"1778265218"
+ "LastPlayed"		"1778265218"
+ "SizeOnDisk"		"0"
+ "StagingSize"		"0"
+ "buildid"		"0"
+ "LastOwner"		"76561198315899824"
+ "DownloadType"		"1"
+ "UpdateResult"		"0"
+ "BytesToDownload"		"0"
+ "BytesDownloaded"		"0"
+ "BytesToStage"		"0"
+ "BytesStaged"		"0"
+ "TargetBuildID"		"0"
+ "AutoUpdateBehavior"		"0"
+ "AllowOtherDownloadsWhileRunning"		"0"
+ "ScheduledAutoUpdate"		"0"
+ "FullValidateAfterNextUpdate"		"1"
+ "InstalledDepots"
+ {
+  "1285191"
+  {
+   "manifest"		"6975940938781783453"
+   "size"		"0"
+  }
+  "1285191"
+  {
+   "manifest"		"8461162535071036430"
+   "size"		"0"
+  }
+  "1285192"
+  {
+   "manifest"		"3544921999822090104"
+   "size"		"0"
+   "dlcappid"		"1285192"
+  }
+  "1285192"
+  {
+   "manifest"		"8593814336479478264"
+   "size"		"0"
+   "dlcappid"		"1285192"
+  }
+  "1285193"
+  {
+   "manifest"		"1587472964084640951"
+   "size"		"0"
+   "dlcappid"		"1285193"
+  }
+  "1285195"
+  {
+   "manifest"		"218636985744352584"
+   "size"		"0"
+   "dlcappid"		"1285195"
+  }
+  "2013850"
+  {
+   "manifest"		"1885194575676718061"
+   "size"		"0"
+   "dlcappid"		"2013850"
+  }
+ }
+ "InstallScripts"
+ {
+  "1285191"		"InstallerMessage_RunScript.vdf"
+ }
+ "SharedDepots"
+ {
+  "228989"		"228980"
+ }
+ "UserConfig"
+ {
+  "language"		"arabic"
+ }
+ "MountedConfig"
+ {
+  "language"		"arabic"
+ }
+}

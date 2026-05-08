@@ -1,0 +1,98 @@
+"AppState"
+{
+ "appid"		"3035570"
+ "universe"		"1"
+ "LauncherPath"		"C:\\Program Files (x86)\\Steam\\steam.exe"
+ "name"		"Assassins Creed Mirage"
+ "StateFlags"		"4"
+ "installdir"		"Assassins Creed Mirage"
+ "LastUpdated"		"1778265218"
+ "LastPlayed"		"1778265218"
+ "SizeOnDisk"		"0"
+ "StagingSize"		"0"
+ "buildid"		"0"
+ "LastOwner"		"76561198315899824"
+ "DownloadType"		"1"
+ "UpdateResult"		"0"
+ "BytesToDownload"		"0"
+ "BytesDownloaded"		"0"
+ "BytesToStage"		"0"
+ "BytesStaged"		"0"
+ "TargetBuildID"		"0"
+ "AutoUpdateBehavior"		"0"
+ "AllowOtherDownloadsWhileRunning"		"0"
+ "ScheduledAutoUpdate"		"0"
+ "FullValidateAfterNextUpdate"		"1"
+ "InstalledDepots"
+ {
+  "3035571"
+  {
+   "manifest"		"7701461256988246108"
+   "size"		"0"
+  }
+  "3035572"
+  {
+   "manifest"		"3845134517469659789"
+   "size"		"0"
+   "dlcappid"		"3035572"
+  }
+  "3035573"
+  {
+   "manifest"		"5351335579227766358"
+   "size"		"0"
+   "dlcappid"		"3035573"
+  }
+  "3035574"
+  {
+   "manifest"		"2148555373227341127"
+   "size"		"0"
+   "dlcappid"		"3035574"
+  }
+  "3035575"
+  {
+   "manifest"		"123013753023180286"
+   "size"		"0"
+   "dlcappid"		"3035575"
+  }
+  "3035576"
+  {
+   "manifest"		"694653800485836473"
+   "size"		"0"
+   "dlcappid"		"3035576"
+  }
+  "3035577"
+  {
+   "manifest"		"2250655009717463561"
+   "size"		"0"
+   "dlcappid"		"3035577"
+  }
+  "3035578"
+  {
+   "manifest"		"7298492144403511848"
+   "size"		"0"
+   "dlcappid"		"3035578"
+  }
+  "3035579"
+  {
+   "manifest"		"5211244630068237437"
+   "size"		"0"
+   "dlcappid"		"3035579"
+  }
+ }
+ "InstallScripts"
+ {
+  "3035571"		"InstallerMessage_RunScript.vdf"
+ }
+ "SharedDepots"
+ {
+  "228989"		"228980"
+ }
+ "UserConfig"
+ {
+  "language"		"arabic"
+ }
+ "MountedConfig"
+ {
+  "language"		"arabic"
+ }
+}

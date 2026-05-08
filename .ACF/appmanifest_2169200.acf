@@ -1,0 +1,116 @@
+"AppState"
+{
+ "appid"		"2169200"
+ "universe"		"1"
+ "LauncherPath"		"C:\\Program Files (x86)\\Steam\\steam.exe"
+ "name"		"Sniper Elite Resistance"
+ "StateFlags"		"4"
+ "installdir"		"Sniper Elite Resistance"
+ "LastUpdated"		"1778265218"
+ "LastPlayed"		"1778265218"
+ "SizeOnDisk"		"0"
+ "StagingSize"		"0"
+ "buildid"		"0"
+ "LastOwner"		"76561198315899824"
+ "DownloadType"		"1"
+ "UpdateResult"		"0"
+ "BytesToDownload"		"0"
+ "BytesDownloaded"		"0"
+ "BytesToStage"		"0"
+ "BytesStaged"		"0"
+ "TargetBuildID"		"0"
+ "AutoUpdateBehavior"		"0"
+ "AllowOtherDownloadsWhileRunning"		"0"
+ "ScheduledAutoUpdate"		"0"
+ "FullValidateAfterNextUpdate"		"1"
+ "InstalledDepots"
+ {
+  "2169201"
+  {
+   "manifest"		"7391481385941074802"
+   "size"		"0"
+  }
+  "2169202"
+  {
+   "manifest"		"1865254937317479303"
+   "size"		"0"
+   "dlcappid"		"2169202"
+  }
+  "2169203"
+  {
+   "manifest"		"7139550291347173555"
+   "size"		"0"
+   "dlcappid"		"2169203"
+  }
+  "2169204"
+  {
+   "manifest"		"372530551937361395"
+   "size"		"0"
+   "dlcappid"		"2169204"
+  }
+  "2169205"
+  {
+   "manifest"		"4461957118771003967"
+   "size"		"0"
+   "dlcappid"		"2169205"
+  }
+  "2169206"
+  {
+   "manifest"		"1047435328961232841"
+   "size"		"0"
+   "dlcappid"		"2169206"
+  }
+  "2169207"
+  {
+   "manifest"		"3300678429426280478"
+   "size"		"0"
+   "dlcappid"		"2169207"
+  }
+  "2169208"
+  {
+   "manifest"		"5843923210413641436"
+   "size"		"0"
+   "dlcappid"		"2169208"
+  }
+  "2561520"
+  {
+   "manifest"		"4740185705261078409"
+   "size"		"0"
+   "dlcappid"		"2561520"
+  }
+  "2729150"
+  {
+   "manifest"		"7327088656667926825"
+   "size"		"0"
+   "dlcappid"		"2729150"
+  }
+  "2800240"
+  {
+   "manifest"		"3684063861755512692"
+   "size"		"0"
+   "dlcappid"		"2800240"
+  }
+  "2800250"
+  {
+   "manifest"		"1513378400177448501"
+   "size"		"0"
+   "dlcappid"		"2800250"
+  }
+ }
+ "InstallScripts"
+ {
+  "2169201"		"InstallerMessage_RunScript.vdf"
+ }
+ "SharedDepots"
+ {
+  "228989"		"228980"
+ }
+ "UserConfig"
+ {
+  "language"		"arabic"
+ }
+ "MountedConfig"
+ {
+  "language"		"arabic"
+ }
+}

@@ -1,0 +1,56 @@
+"AppState"
+{
+ "appid"		"3551340"
+ "universe"		"1"
+ "LauncherPath"		"C:\\Program Files (x86)\\Steam\\steam.exe"
+ "name"		"Football Manager 26"
+ "StateFlags"		"4"
+ "installdir"		"Football Manager 26"
+ "LastUpdated"		"1778265218"
+ "LastPlayed"		"1778265218"
+ "SizeOnDisk"		"0"
+ "StagingSize"		"0"
+ "buildid"		"0"
+ "LastOwner"		"76561198315899824"
+ "DownloadType"		"1"
+ "UpdateResult"		"0"
+ "BytesToDownload"		"0"
+ "BytesDownloaded"		"0"
+ "BytesToStage"		"0"
+ "BytesStaged"		"0"
+ "TargetBuildID"		"0"
+ "AutoUpdateBehavior"		"0"
+ "AllowOtherDownloadsWhileRunning"		"0"
+ "ScheduledAutoUpdate"		"0"
+ "FullValidateAfterNextUpdate"		"1"
+ "InstalledDepots"
+ {
+  "3551341"
+  {
+   "manifest"		"7759922098115499616"
+   "size"		"0"
+  }
+  "3551342"
+  {
+   "manifest"		"3387406076968683634"
+   "size"		"0"
+   "dlcappid"		"3551342"
+  }
+ }
+ "InstallScripts"
+ {
+  "3551341"		"InstallerMessage_RunScript.vdf"
+ }
+ "SharedDepots"
+ {
+  "228989"		"228980"
+ }
+ "UserConfig"
+ {
+  "language"		"arabic"
+ }
+ "MountedConfig"
+ {
+  "language"		"arabic"
+ }
+}

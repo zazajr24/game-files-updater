@@ -1,0 +1,50 @@
+"AppState"
+{
+ "appid"		"2072450"
+ "universe"		"1"
+ "LauncherPath"		"C:\\Program Files (x86)\\Steam\\steam.exe"
+ "name"		"Like a Dragon Infinite Wealth"
+ "StateFlags"		"4"
+ "installdir"		"Like a Dragon Infinite Wealth"
+ "LastUpdated"		"1778265218"
+ "LastPlayed"		"1778265218"
+ "SizeOnDisk"		"0"
+ "StagingSize"		"0"
+ "buildid"		"0"
+ "LastOwner"		"76561198315899824"
+ "DownloadType"		"1"
+ "UpdateResult"		"0"
+ "BytesToDownload"		"0"
+ "BytesDownloaded"		"0"
+ "BytesToStage"		"0"
+ "BytesStaged"		"0"
+ "TargetBuildID"		"0"
+ "AutoUpdateBehavior"		"0"
+ "AllowOtherDownloadsWhileRunning"		"0"
+ "ScheduledAutoUpdate"		"0"
+ "FullValidateAfterNextUpdate"		"1"
+ "InstalledDepots"
+ {
+  "2072451"
+  {
+   "manifest"		"4882956135694037628"
+   "size"		"0"
+  }
+ }
+ "InstallScripts"
+ {
+  "2072451"		"InstallerMessage_RunScript.vdf"
+ }
+ "SharedDepots"
+ {
+  "228989"		"228980"
+ }
+ "UserConfig"
+ {
+  "language"		"arabic"
+ }
+ "MountedConfig"
+ {
+  "language"		"arabic"
+ }
+}

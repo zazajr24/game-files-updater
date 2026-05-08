@@ -1,0 +1,62 @@
+"AppState"
+{
+ "appid"		"1364780"
+ "universe"		"1"
+ "LauncherPath"		"C:\\Program Files (x86)\\Steam\\steam.exe"
+ "name"		"Street Fighter 6"
+ "StateFlags"		"4"
+ "installdir"		"Street Fighter 6"
+ "LastUpdated"		"1778265218"
+ "LastPlayed"		"1778265218"
+ "SizeOnDisk"		"0"
+ "StagingSize"		"0"
+ "buildid"		"0"
+ "LastOwner"		"76561198315899824"
+ "DownloadType"		"1"
+ "UpdateResult"		"0"
+ "BytesToDownload"		"0"
+ "BytesDownloaded"		"0"
+ "BytesToStage"		"0"
+ "BytesStaged"		"0"
+ "TargetBuildID"		"0"
+ "AutoUpdateBehavior"		"0"
+ "AllowOtherDownloadsWhileRunning"		"0"
+ "ScheduledAutoUpdate"		"0"
+ "FullValidateAfterNextUpdate"		"1"
+ "InstalledDepots"
+ {
+  "1364781"
+  {
+   "manifest"		"4376238123984595960"
+   "size"		"0"
+  }
+  "1792750"
+  {
+   "manifest"		"6884397220835125615"
+   "size"		"0"
+   "dlcappid"		"1792750"
+  }
+  "1792751"
+  {
+   "manifest"		"6646887922669668163"
+   "size"		"0"
+   "dlcappid"		"1792751"
+  }
+ }
+ "InstallScripts"
+ {
+  "1364781"		"InstallerMessage_RunScript.vdf"
+ }
+ "SharedDepots"
+ {
+  "228989"		"228980"
+ }
+ "UserConfig"
+ {
+  "language"		"arabic"
+ }
+ "MountedConfig"
+ {
+  "language"		"arabic"
+ }
+}

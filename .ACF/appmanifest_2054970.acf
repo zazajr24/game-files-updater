@@ -1,0 +1,206 @@
+"AppState"
+{
+ "appid"		"2054970"
+ "universe"		"1"
+ "LauncherPath"		"C:\\Program Files (x86)\\Steam\\steam.exe"
+ "name"		"Dragons Dogma 2"
+ "StateFlags"		"4"
+ "installdir"		"Dragons Dogma 2"
+ "LastUpdated"		"1778265218"
+ "LastPlayed"		"1778265218"
+ "SizeOnDisk"		"0"
+ "StagingSize"		"0"
+ "buildid"		"0"
+ "LastOwner"		"76561198315899824"
+ "DownloadType"		"1"
+ "UpdateResult"		"0"
+ "BytesToDownload"		"0"
+ "BytesDownloaded"		"0"
+ "BytesToStage"		"0"
+ "BytesStaged"		"0"
+ "TargetBuildID"		"0"
+ "AutoUpdateBehavior"		"0"
+ "AllowOtherDownloadsWhileRunning"		"0"
+ "ScheduledAutoUpdate"		"0"
+ "FullValidateAfterNextUpdate"		"1"
+ "InstalledDepots"
+ {
+  "2054971"
+  {
+   "manifest"		"3136688068330793105"
+   "size"		"0"
+  }
+  "2054972"
+  {
+   "manifest"		"1800823946498701498"
+   "size"		"0"
+   "dlcappid"		"2054972"
+  }
+  "2054973"
+  {
+   "manifest"		"4686089925315080392"
+   "size"		"0"
+   "dlcappid"		"2054973"
+  }
+  "2054974"
+  {
+   "manifest"		"119972914902696764"
+   "size"		"0"
+   "dlcappid"		"2054974"
+  }
+  "2581000"
+  {
+   "manifest"		"3326500289311024291"
+   "size"		"0"
+   "dlcappid"		"2581000"
+  }
+  "2593170"
+  {
+   "manifest"		"6723973524008089229"
+   "size"		"0"
+   "dlcappid"		"2593170"
+  }
+  "2593180"
+  {
+   "manifest"		"2634842059355884280"
+   "size"		"0"
+   "dlcappid"		"2593180"
+  }
+  "2593190"
+  {
+   "manifest"		"7277756736244661036"
+   "size"		"0"
+   "dlcappid"		"2593190"
+  }
+  "2593200"
+  {
+   "manifest"		"3869936518091417960"
+   "size"		"0"
+   "dlcappid"		"2593200"
+  }
+  "2593210"
+  {
+   "manifest"		"5414532205501697728"
+   "size"		"0"
+   "dlcappid"		"2593210"
+  }
+  "2593220"
+  {
+   "manifest"		"7455982328362794134"
+   "size"		"0"
+   "dlcappid"		"2593220"
+  }
+  "2593230"
+  {
+   "manifest"		"7251928774923524569"
+   "size"		"0"
+   "dlcappid"		"2593230"
+  }
+  "2593240"
+  {
+   "manifest"		"315069544162243504"
+   "size"		"0"
+   "dlcappid"		"2593240"
+  }
+  "2593250"
+  {
+   "manifest"		"967135362921279442"
+   "size"		"0"
+   "dlcappid"		"2593250"
+  }
+  "2593260"
+  {
+   "manifest"		"69183187290100698"
+   "size"		"0"
+   "dlcappid"		"2593260"
+  }
+  "2593270"
+  {
+   "manifest"		"2207132955792828001"
+   "size"		"0"
+   "dlcappid"		"2593270"
+  }
+  "2694820"
+  {
+   "manifest"		"5885578699773604089"
+   "size"		"0"
+   "dlcappid"		"2694820"
+  }
+  "2694830"
+  {
+   "manifest"		"1601933322779527921"
+   "size"		"0"
+   "dlcappid"		"2694830"
+  }
+  "2694840"
+  {
+   "manifest"		"211900286292596559"
+   "size"		"0"
+   "dlcappid"		"2694840"
+  }
+  "2694850"
+  {
+   "manifest"		"8403226506099305605"
+   "size"		"0"
+   "dlcappid"		"2694850"
+  }
+  "2757060"
+  {
+   "manifest"		"760063107766921264"
+   "size"		"0"
+   "dlcappid"		"2757060"
+  }
+  "2757080"
+  {
+   "manifest"		"5169243754881054003"
+   "size"		"0"
+   "dlcappid"		"2757080"
+  }
+  "2757090"
+  {
+   "manifest"		"3444076000364683673"
+   "size"		"0"
+   "dlcappid"		"2757090"
+  }
+  "2757120"
+  {
+   "manifest"		"1463489043546813420"
+   "size"		"0"
+   "dlcappid"		"2757120"
+  }
+  "2757130"
+  {
+   "manifest"		"771876390790049210"
+   "size"		"0"
+   "dlcappid"		"2757130"
+  }
+  "2757140"
+  {
+   "manifest"		"1033236542373376685"
+   "size"		"0"
+   "dlcappid"		"2757140"
+  }
+  "2757170"
+  {
+   "manifest"		"3459631589371686775"
+   "size"		"0"
+   "dlcappid"		"2757170"
+  }
+ }
+ "InstallScripts"
+ {
+  "2054971"		"InstallerMessage_RunScript.vdf"
+ }
+ "SharedDepots"
+ {
+  "228989"		"228980"
+ }
+ "UserConfig"
+ {
+  "language"		"arabic"
+ }
+ "MountedConfig"
+ {
+  "language"		"arabic"
+ }
+}

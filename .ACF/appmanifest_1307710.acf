@@ -1,0 +1,92 @@
+"AppState"
+{
+ "appid"		"1307710"
+ "universe"		"1"
+ "LauncherPath"		"C:\\Program Files (x86)\\Steam\\steam.exe"
+ "name"		"GRID Legends"
+ "StateFlags"		"4"
+ "installdir"		"GRID Legends"
+ "LastUpdated"		"1778265218"
+ "LastPlayed"		"1778265218"
+ "SizeOnDisk"		"0"
+ "StagingSize"		"0"
+ "buildid"		"0"
+ "LastOwner"		"76561198315899824"
+ "DownloadType"		"1"
+ "UpdateResult"		"0"
+ "BytesToDownload"		"0"
+ "BytesDownloaded"		"0"
+ "BytesToStage"		"0"
+ "BytesStaged"		"0"
+ "TargetBuildID"		"0"
+ "AutoUpdateBehavior"		"0"
+ "AllowOtherDownloadsWhileRunning"		"0"
+ "ScheduledAutoUpdate"		"0"
+ "FullValidateAfterNextUpdate"		"1"
+ "InstalledDepots"
+ {
+  "1307711"
+  {
+   "manifest"		"3142061057821738020"
+   "size"		"0"
+  }
+  "1307712"
+  {
+   "manifest"		"264682346576381778"
+   "size"		"0"
+   "dlcappid"		"1307712"
+  }
+  "1307713"
+  {
+   "manifest"		"2365707192551774949"
+   "size"		"0"
+   "dlcappid"		"1307713"
+  }
+  "1307715"
+  {
+   "manifest"		"1546864909068542454"
+   "size"		"0"
+   "dlcappid"		"1307715"
+  }
+  "1307716"
+  {
+   "manifest"		"6608620390288663269"
+   "size"		"0"
+   "dlcappid"		"1307716"
+  }
+  "1307717"
+  {
+   "manifest"		"3753684844588510866"
+   "size"		"0"
+   "dlcappid"		"1307717"
+  }
+  "1307718"
+  {
+   "manifest"		"2395483372990381445"
+   "size"		"0"
+   "dlcappid"		"1307718"
+  }
+  "1307719"
+  {
+   "manifest"		"1675865672175121987"
+   "size"		"0"
+   "dlcappid"		"1307719"
+  }
+ }
+ "InstallScripts"
+ {
+  "1307711"		"InstallerMessage_RunScript.vdf"
+ }
+ "SharedDepots"
+ {
+  "228989"		"228980"
+ }
+ "UserConfig"
+ {
+  "language"		"arabic"
+ }
+ "MountedConfig"
+ {
+  "language"		"arabic"
+ }
+}

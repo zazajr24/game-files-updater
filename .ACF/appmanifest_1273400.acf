@@ -1,0 +1,152 @@
+"AppState"
+{
+ "appid"		"1273400"
+ "universe"		"1"
+ "LauncherPath"		"C:\\Program Files (x86)\\Steam\\steam.exe"
+ "name"		"Construction Simulator"
+ "StateFlags"		"4"
+ "installdir"		"Construction Simulator"
+ "LastUpdated"		"1778265218"
+ "LastPlayed"		"1778265218"
+ "SizeOnDisk"		"0"
+ "StagingSize"		"0"
+ "buildid"		"0"
+ "LastOwner"		"76561198315899824"
+ "DownloadType"		"1"
+ "UpdateResult"		"0"
+ "BytesToDownload"		"0"
+ "BytesDownloaded"		"0"
+ "BytesToStage"		"0"
+ "BytesStaged"		"0"
+ "TargetBuildID"		"0"
+ "AutoUpdateBehavior"		"0"
+ "AllowOtherDownloadsWhileRunning"		"0"
+ "ScheduledAutoUpdate"		"0"
+ "FullValidateAfterNextUpdate"		"1"
+ "InstalledDepots"
+ {
+  "1273401"
+  {
+   "manifest"		"3537032707906149374"
+   "size"		"0"
+  }
+  "1944340"
+  {
+   "manifest"		"322555549106022213"
+   "size"		"0"
+   "dlcappid"		"1944340"
+  }
+  "1944341"
+  {
+   "manifest"		"8807678063382063768"
+   "size"		"0"
+   "dlcappid"		"1944341"
+  }
+  "2153872"
+  {
+   "manifest"		"425545223924338255"
+   "size"		"0"
+   "dlcappid"		"2153872"
+  }
+  "2203420"
+  {
+   "manifest"		"8739100311331388793"
+   "size"		"0"
+   "dlcappid"		"2203420"
+  }
+  "2291424"
+  {
+   "manifest"		"8453066766368453847"
+   "size"		"0"
+   "dlcappid"		"2291424"
+  }
+  "2295781"
+  {
+   "manifest"		"685349866155445181"
+   "size"		"0"
+   "dlcappid"		"2295781"
+  }
+  "2295811"
+  {
+   "manifest"		"3383914678723808175"
+   "size"		"0"
+   "dlcappid"		"2295811"
+  }
+  "2295821"
+  {
+   "manifest"		"8580441773329478911"
+   "size"		"0"
+   "dlcappid"		"2295821"
+  }
+  "2322971"
+  {
+   "manifest"		"320280581201002583"
+   "size"		"0"
+   "dlcappid"		"2322971"
+  }
+  "2322981"
+  {
+   "manifest"		"5743210225651998743"
+   "size"		"0"
+   "dlcappid"		"2322981"
+  }
+  "2322991"
+  {
+   "manifest"		"7520794540910599885"
+   "size"		"0"
+   "dlcappid"		"2322991"
+  }
+  "2657381"
+  {
+   "manifest"		"6016383179637761921"
+   "size"		"0"
+   "dlcappid"		"2657381"
+  }
+  "2657391"
+  {
+   "manifest"		"3197796519729678759"
+   "size"		"0"
+   "dlcappid"		"2657391"
+  }
+  "2657401"
+  {
+   "manifest"		"8114831874000182204"
+   "size"		"0"
+   "dlcappid"		"2657401"
+  }
+  "2657411"
+  {
+   "manifest"		"3557864438957203195"
+   "size"		"0"
+   "dlcappid"		"2657411"
+  }
+  "2657421"
+  {
+   "manifest"		"8791015684642513912"
+   "size"		"0"
+   "dlcappid"		"2657421"
+  }
+  "2800781"
+  {
+   "manifest"		"5044123825545457794"
+   "size"		"0"
+   "dlcappid"		"2800781"
+  }
+ }
+ "InstallScripts"
+ {
+  "1273401"		"InstallerMessage_RunScript.vdf"
+ }
+ "SharedDepots"
+ {
+  "228989"		"228980"
+ }
+ "UserConfig"
+ {
+  "language"		"arabic"
+ }
+ "MountedConfig"
+ {
+  "language"		"arabic"
+ }
+}

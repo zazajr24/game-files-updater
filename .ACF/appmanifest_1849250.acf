@@ -1,0 +1,266 @@
+"AppState"
+{
+ "appid"		"1849250"
+ "universe"		"1"
+ "LauncherPath"		"C:\\Program Files (x86)\\Steam\\steam.exe"
+ "name"		"EA SPORTS WRC"
+ "StateFlags"		"4"
+ "installdir"		"EA SPORTS WRC"
+ "LastUpdated"		"1778265218"
+ "LastPlayed"		"1778265218"
+ "SizeOnDisk"		"0"
+ "StagingSize"		"0"
+ "buildid"		"0"
+ "LastOwner"		"76561198315899824"
+ "DownloadType"		"1"
+ "UpdateResult"		"0"
+ "BytesToDownload"		"0"
+ "BytesDownloaded"		"0"
+ "BytesToStage"		"0"
+ "BytesStaged"		"0"
+ "TargetBuildID"		"0"
+ "AutoUpdateBehavior"		"0"
+ "AllowOtherDownloadsWhileRunning"		"0"
+ "ScheduledAutoUpdate"		"0"
+ "FullValidateAfterNextUpdate"		"1"
+ "InstalledDepots"
+ {
+  "1849251"
+  {
+   "manifest"		"1950562005651381216"
+   "size"		"0"
+  }
+  "1849252"
+  {
+   "manifest"		"6133381598181148024"
+   "size"		"0"
+   "dlcappid"		"1849252"
+  }
+  "1849253"
+  {
+   "manifest"		"7531574676025819118"
+   "size"		"0"
+   "dlcappid"		"1849253"
+  }
+  "1849254"
+  {
+   "manifest"		"873840855093931348"
+   "size"		"0"
+   "dlcappid"		"1849254"
+  }
+  "1849255"
+  {
+   "manifest"		"5318113127779572158"
+   "size"		"0"
+   "dlcappid"		"1849255"
+  }
+  "1849256"
+  {
+   "manifest"		"3617524620425507747"
+   "size"		"0"
+   "dlcappid"		"1849256"
+  }
+  "1849257"
+  {
+   "manifest"		"8951927093973568918"
+   "size"		"0"
+   "dlcappid"		"1849257"
+  }
+  "1849258"
+  {
+   "manifest"		"4652065123806850192"
+   "size"		"0"
+   "dlcappid"		"1849258"
+  }
+  "1849259"
+  {
+   "manifest"		"1035375538788130610"
+   "size"		"0"
+   "dlcappid"		"1849259"
+  }
+  "1877420"
+  {
+   "manifest"		"1076531641600842135"
+   "size"		"0"
+   "dlcappid"		"1877420"
+  }
+  "1877421"
+  {
+   "manifest"		"6333107763051998186"
+   "size"		"0"
+   "dlcappid"		"1877421"
+  }
+  "1877422"
+  {
+   "manifest"		"9055489384737249582"
+   "size"		"0"
+   "dlcappid"		"1877422"
+  }
+  "1877423"
+  {
+   "manifest"		"3306695886857118579"
+   "size"		"0"
+   "dlcappid"		"1877423"
+  }
+  "1877424"
+  {
+   "manifest"		"5720648141066631983"
+   "size"		"0"
+   "dlcappid"		"1877424"
+  }
+  "1877425"
+  {
+   "manifest"		"6097913681306863422"
+   "size"		"0"
+   "dlcappid"		"1877425"
+  }
+  "1877426"
+  {
+   "manifest"		"832180814460753033"
+   "size"		"0"
+   "dlcappid"		"1877426"
+  }
+  "1877427"
+  {
+   "manifest"		"4634066866058812813"
+   "size"		"0"
+   "dlcappid"		"1877427"
+  }
+  "1877428"
+  {
+   "manifest"		"5097272290876715822"
+   "size"		"0"
+   "dlcappid"		"1877428"
+  }
+  "1877429"
+  {
+   "manifest"		"5988655196302917587"
+   "size"		"0"
+   "dlcappid"		"1877429"
+  }
+  "1877430"
+  {
+   "manifest"		"594039028252684512"
+   "size"		"0"
+   "dlcappid"		"1877430"
+  }
+  "1877431"
+  {
+   "manifest"		"7518833599704867976"
+   "size"		"0"
+   "dlcappid"		"1877431"
+  }
+  "1877432"
+  {
+   "manifest"		"2356760232457517414"
+   "size"		"0"
+   "dlcappid"		"1877432"
+  }
+  "1877433"
+  {
+   "manifest"		"6621068427663153539"
+   "size"		"0"
+   "dlcappid"		"1877433"
+  }
+  "1877434"
+  {
+   "manifest"		"1430067640654149033"
+   "size"		"0"
+   "dlcappid"		"1877434"
+  }
+  "1877435"
+  {
+   "manifest"		"5485862764671412466"
+   "size"		"0"
+   "dlcappid"		"1877435"
+  }
+  "1877436"
+  {
+   "manifest"		"3249403258021125168"
+   "size"		"0"
+   "dlcappid"		"1877436"
+  }
+  "1877437"
+  {
+   "manifest"		"1808282111459778763"
+   "size"		"0"
+   "dlcappid"		"1877437"
+  }
+  "1877438"
+  {
+   "manifest"		"7786172829448358131"
+   "size"		"0"
+   "dlcappid"		"1877438"
+  }
+  "1877439"
+  {
+   "manifest"		"7795540909751101150"
+   "size"		"0"
+   "dlcappid"		"1877439"
+  }
+  "1938940"
+  {
+   "manifest"		"7000945272557180744"
+   "size"		"0"
+   "dlcappid"		"1938940"
+  }
+  "1938941"
+  {
+   "manifest"		"6420324000496668550"
+   "size"		"0"
+   "dlcappid"		"1938941"
+  }
+  "1938942"
+  {
+   "manifest"		"7538501218557741563"
+   "size"		"0"
+   "dlcappid"		"1938942"
+  }
+  "1938943"
+  {
+   "manifest"		"4462117937390517256"
+   "size"		"0"
+   "dlcappid"		"1938943"
+  }
+  "1938944"
+  {
+   "manifest"		"4815119416101477111"
+   "size"		"0"
+   "dlcappid"		"1938944"
+  }
+  "1938945"
+  {
+   "manifest"		"6668847710740562740"
+   "size"		"0"
+   "dlcappid"		"1938945"
+  }
+  "1938946"
+  {
+   "manifest"		"2111253376161188321"
+   "size"		"0"
+   "dlcappid"		"1938946"
+  }
+  "1938948"
+  {
+   "manifest"		"7660066935870206501"
+   "size"		"0"
+   "dlcappid"		"1938948"
+  }
+ }
+ "InstallScripts"
+ {
+  "1849251"		"InstallerMessage_RunScript.vdf"
+ }
+ "SharedDepots"
+ {
+  "228989"		"228980"
+ }
+ "UserConfig"
+ {
+  "language"		"arabic"
+ }
+ "MountedConfig"
+ {
+  "language"		"arabic"
+ }
+}

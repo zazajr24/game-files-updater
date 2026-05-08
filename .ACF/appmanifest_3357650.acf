@@ -1,0 +1,62 @@
+"AppState"
+{
+ "appid"		"3357650"
+ "universe"		"1"
+ "LauncherPath"		"C:\\Program Files (x86)\\Steam\\steam.exe"
+ "name"		"PRAGMATA"
+ "StateFlags"		"4"
+ "installdir"		"PRAGMATA"
+ "LastUpdated"		"1778265218"
+ "LastPlayed"		"1778265218"
+ "SizeOnDisk"		"37205203878"
+ "StagingSize"		"0"
+ "buildid"		"0"
+ "LastOwner"		"76561198315899824"
+ "DownloadType"		"1"
+ "UpdateResult"		"0"
+ "BytesToDownload"		"0"
+ "BytesDownloaded"		"0"
+ "BytesToStage"		"0"
+ "BytesStaged"		"0"
+ "TargetBuildID"		"0"
+ "AutoUpdateBehavior"		"0"
+ "AllowOtherDownloadsWhileRunning"		"0"
+ "ScheduledAutoUpdate"		"0"
+ "FullValidateAfterNextUpdate"		"1"
+ "InstalledDepots"
+ {
+  "3357651"
+  {
+   "manifest"		"2417499809052404547"
+   "size"		"36816287661"
+  }
+  "3859920"
+  {
+   "manifest"		"4731286747379700304"
+   "size"		"90058268"
+   "dlcappid"		"3859920"
+  }
+  "3859930"
+  {
+   "manifest"		"6714427611547107917"
+   "size"		"298857949"
+   "dlcappid"		"3859930"
+  }
+ }
+ "InstallScripts"
+ {
+  "3357651"		"InstallerMessage_RunScript.vdf"
+ }
+ "SharedDepots"
+ {
+  "228989"		"228980"
+ }
+ "UserConfig"
+ {
+  "language"		"arabic"
+ }
+ "MountedConfig"
+ {
+  "language"		"arabic"
+ }
+}
