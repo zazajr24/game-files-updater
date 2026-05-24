@@ -1,0 +1,498 @@
+[
+  {
+    "name": "007 First Light",
+    "url": "coming_soon",
+    "image": "007_First_Light.png",
+    "appid": "3768760",
+    "asset_folder": "007_First_Light",
+    "coming_soon": true,
+    "size": 80.0,
+    "sort_order": 0
+  },
+  {
+    "name": "Assassin's Creed Black Flag Resynced",
+    "url": "coming_soon",
+    "image": "Assassins_Creed_Black_Flag_Resynced.png",
+    "appid": "3751950",
+    "asset_folder": "Assassins_Creed_Black_Flag_Resynced",
+    "coming_soon": true,
+    "size": 100.0,
+    "sort_order": 1
+  },
+  {
+    "name": "LEGO® Batman™: Legacy of the Dark Knight",
+    "url": "steam_depot",
+    "image": "LEGO_Batman_Legacy_of_the_Dark_Knight.jpg",
+    "appid": "2215200",
+    "asset_folder": "LEGO_Batman_Legacy_of_the_Dark_Knight",
+    "coming_soon": false,
+    "size": 39.0,
+    "sort_order": 2,
+    "addedAt": 1779447826216
+  },
+  {
+    "name": "PRAGMATA",
+    "url": "steam_depot",
+    "image": "PRAGMATA.png",
+    "appid": "3357650",
+    "size": 34.0,
+    "coming_soon": false,
+    "sort_order": 3,
+    "asset_folder": "PRAGMATA"
+  },
+  {
+    "name": "SONIC X SHADOW GENERATIONS",
+    "url": "steam_depot",
+    "image": "SONIC_X_SHADOW_GENERATIONS.png",
+    "appid": "2513280",
+    "coming_soon": false,
+    "size": 40.0,
+    "sort_order": 4,
+    "asset_folder": "SONIC_X_SHADOW_GENERATIONS"
+  },
+  {
+    "name": "Atomic Heart",
+    "url": "steam_depot",
+    "image": "Atomic_Heart.png",
+    "appid": "668580",
+    "coming_soon": false,
+    "size": 79.0,
+    "sort_order": 5,
+    "asset_folder": "Atomic_Heart"
+  },
+  {
+    "name": "Warhammer 40,000: Chaos Gate - Daemonhunters",
+    "url": "steam_depot",
+    "image": "Warhammer_40000_Chaos_Gate_-_Daemonhunters.jpg",
+    "appid": "1611910",
+    "size": 13.0,
+    "coming_soon": false,
+    "sort_order": 6
+  },
+  {
+    "name": "FINAL FANTASY XV WINDOWS EDITION",
+    "url": "steam_depot",
+    "image": "FINAL_FANTASY_XV_WINDOWS_EDITION.jpg",
+    "appid": "637650",
+    "size": 78.0,
+    "coming_soon": false,
+    "sort_order": 7
+  },
+  {
+    "name": "Crimson Desert",
+    "url": "steam_depot",
+    "image": "crimsondesert.png",
+    "size": 68.0,
+    "version": "",
+    "build_id": "",
+    "coming_soon": false,
+    "sort_order": 8,
+    "appid": "3321460",
+    "asset_folder": "Crimson_Desert"
+  },
+  {
+    "name": "Life is Strange: Reunion",
+    "url": "steam_depot",
+    "image": "LisReunion.png",
+    "size": 35.0,
+    "version": "",
+    "build_id": "",
+    "coming_soon": false,
+    "sort_order": 9
+  },
+  {
+    "name": "WWE 2K26",
+    "url": "steam_depot",
+    "image": "WWE2k26.png",
+    "size": 120.0,
+    "version": "",
+    "build_id": "",
+    "coming_soon": false,
+    "sort_order": 10
+  },
+  {
+    "name": "Resident Evil Requiem",
+    "url": "steam_depot",
+    "image": "Resident_Evil_Requiem.jpg",
+    "appid": "3764200",
+    "coming_soon": false,
+    "size": 72.0,
+    "sort_order": 11,
+    "asset_folder": "Resident_Evil_Requiem"
+  },
+  {
+    "name": "Undisputed",
+    "url": "steam_depot",
+    "image": "Undisputed.png",
+    "size": 17.0,
+    "version": "",
+    "build_id": "",
+    "coming_soon": false,
+    "sort_order": 12
+  },
+  {
+    "name": "Assassin's Creed Mirage",
+    "url": "steam_depot",
+    "image": "ACMirage.png",
+    "size": 59.0,
+    "version": "",
+    "build_id": "",
+    "coming_soon": false,
+    "sort_order": 13
+  },
+  {
+    "name": "Assassin's Creed Shadows",
+    "url": "steam_depot",
+    "image": "ACS.png",
+    "size": 134.0,
+    "version": "",
+    "build_id": "",
+    "coming_soon": false,
+    "sort_order": 14,
+    "appid": "3764200",
+    "asset_folder": "Assassins_Creed_Shadows"
+  },
+  {
+    "name": "Avatar: Frontiers of Pandora",
+    "url": "steam_depot",
+    "image": "AvatarFrontiersofPandora.png",
+    "size": 106.0,
+    "version": "",
+    "build_id": "",
+    "coming_soon": false,
+    "sort_order": 15
+  },
+  {
+    "name": "Black Myth: Wukong",
+    "url": "steam_depot",
+    "image": "BlackMythWukong.png",
+    "size": 155.0,
+    "version": "",
+    "build_id": "",
+    "coming_soon": false,
+    "sort_order": 16
+  },
+  {
+    "name": "Borderlands 4 Super Deluxe",
+    "url": "steam_depot",
+    "image": "Borderlands4SuperDeluxe.png",
+    "size": 50.0,
+    "version": "",
+    "build_id": "",
+    "coming_soon": false,
+    "sort_order": 17
+  },
+  {
+    "name": "CODE VEIN II",
+    "url": "steam_depot",
+    "image": "CodeVeinII.png",
+    "size": 30.0,
+    "version": "",
+    "build_id": "",
+    "coming_soon": false,
+    "sort_order": 18
+  },
+  {
+    "name": "Construction Simulator",
+    "url": "steam_depot",
+    "image": "cs.png",
+    "size": 45.0,
+    "version": "",
+    "build_id": "",
+    "coming_soon": false,
+    "sort_order": 19
+  },
+  {
+    "name": "Dead Space 2023",
+    "url": "steam_depot",
+    "image": "DeadSpace2023.png",
+    "size": 35.0,
+    "version": "",
+    "build_id": "",
+    "coming_soon": false,
+    "sort_order": 20
+  },
+  {
+    "name": "Demon Slayer Chronicles 2",
+    "url": "steam_depot",
+    "image": "DS2.png",
+    "size": 24.0,
+    "version": "",
+    "build_id": "",
+    "coming_soon": false,
+    "sort_order": 21
+  },
+  {
+    "name": "DOOM: The Dark Ages",
+    "url": "steam_depot",
+    "image": "DOOMTheDarkAges.png",
+    "size": 82.0,
+    "version": "",
+    "build_id": "",
+    "coming_soon": false,
+    "sort_order": 22,
+    "appid": "3764200",
+    "asset_folder": "DOOM_The_Dark_Ages"
+  },
+  {
+    "name": "Dragon's Dogma 2",
+    "url": "steam_depot",
+    "image": "DragonsDogma2.png",
+    "size": 68.0,
+    "version": "",
+    "build_id": "",
+    "coming_soon": false,
+    "sort_order": 23,
+    "appid": "3764200",
+    "asset_folder": "Dragons_Dogma_2"
+  },
+  {
+    "name": "EA SPORTS FC 24",
+    "url": "steam_depot",
+    "image": "FC24.png",
+    "size": 51.0,
+    "version": "",
+    "build_id": "",
+    "coming_soon": false,
+    "sort_order": 24
+  },
+  {
+    "name": "EA SPORTS FC 25",
+    "url": "steam_depot",
+    "image": "FC25.png",
+    "size": 51.0,
+    "version": "",
+    "build_id": "",
+    "coming_soon": false,
+    "sort_order": 25
+  },
+  {
+    "name": "EA SPORTS WRC",
+    "url": "steam_depot",
+    "image": "WRC.png",
+    "size": 65.0,
+    "version": "",
+    "build_id": "",
+    "coming_soon": false,
+    "sort_order": 26
+  },
+  {
+    "name": "Football Manager 26",
+    "url": "steam_depot",
+    "image": "Fm26.png",
+    "size": 6.0,
+    "version": "",
+    "build_id": "",
+    "coming_soon": false,
+    "sort_order": 27
+  },
+  {
+    "name": "Hatsune Miku Project DIVA Mega Mix+",
+    "url": "steam_depot",
+    "image": "HatsuneMiku.png",
+    "size": 70.0,
+    "version": "",
+    "build_id": "",
+    "coming_soon": false,
+    "sort_order": 28
+  },
+  {
+    "name": "Hogwarts Legacy",
+    "url": "steam_depot",
+    "image": "HogwartsLegacy.png",
+    "size": 68.0,
+    "version": "",
+    "build_id": "",
+    "coming_soon": false,
+    "sort_order": 29
+  },
+  {
+    "name": "Jurassic World Evolution 2",
+    "url": "steam_depot",
+    "image": "Jwe.png",
+    "size": 20.0,
+    "version": "",
+    "build_id": "",
+    "coming_soon": false,
+    "sort_order": 30
+  },
+  {
+    "name": "Like a Dragon: Infinite Wealth",
+    "url": "steam_depot",
+    "image": "LikeADragon.png",
+    "size": 71.0,
+    "version": "",
+    "build_id": "",
+    "coming_soon": false,
+    "sort_order": 31
+  },
+  {
+    "name": "Mafia The Old Country",
+    "url": "steam_depot",
+    "image": "MafiaTheOldCountry.png",
+    "size": 46.0,
+    "version": "",
+    "build_id": "",
+    "coming_soon": false,
+    "sort_order": 32
+  },
+  {
+    "name": "Monster Hunter Wilds",
+    "url": "steam_depot",
+    "image": "MonsterHunterWilds.png",
+    "size": 83.0,
+    "version": "",
+    "build_id": "",
+    "coming_soon": false,
+    "sort_order": 33
+  },
+  {
+    "name": "Mortal Kombat 1",
+    "url": "steam_depot",
+    "image": "Mk1.png",
+    "size": 67.0,
+    "version": "",
+    "build_id": "",
+    "coming_soon": false,
+    "sort_order": 34
+  },
+  {
+    "name": "Persona 3 Reload Premium",
+    "url": "steam_depot",
+    "image": "Persona3Reload.png",
+    "size": 21.0,
+    "version": "",
+    "build_id": "",
+    "coming_soon": false,
+    "sort_order": 35
+  },
+  {
+    "name": "Persona 5 Royal",
+    "url": "steam_depot",
+    "image": "Persona5Royal.png",
+    "size": 35.0,
+    "version": "",
+    "build_id": "",
+    "coming_soon": false,
+    "sort_order": 36
+  },
+  {
+    "name": "Planet Coaster 2",
+    "url": "steam_depot",
+    "image": "planetcoaster2.png",
+    "size": 15.0,
+    "version": "",
+    "build_id": "",
+    "coming_soon": false,
+    "sort_order": 37
+  },
+  {
+    "name": "Planet Zoo",
+    "url": "steam_depot",
+    "image": "pz.png",
+    "size": 20.0,
+    "version": "",
+    "build_id": "",
+    "coming_soon": false,
+    "sort_order": 38
+  },
+  {
+    "name": "Prince of Persia The Lost Crown",
+    "url": "steam_depot",
+    "image": "POPTLC.png",
+    "size": 30.0,
+    "version": "",
+    "build_id": "",
+    "coming_soon": false,
+    "sort_order": 39
+  },
+  {
+    "name": "Sniper Elite: Resistance",
+    "url": "steam_depot",
+    "image": "SniperEliteResistance.png",
+    "size": 100.0,
+    "version": "",
+    "build_id": "",
+    "coming_soon": false,
+    "sort_order": 40
+  },
+  {
+    "name": "Sonic Frontiers",
+    "url": "steam_depot",
+    "image": "SonicFrontiers.png",
+    "size": 25.0,
+    "version": "",
+    "build_id": "",
+    "coming_soon": false,
+    "sort_order": 41
+  },
+  {
+    "name": "Star Wars Outlaws",
+    "url": "steam_depot",
+    "image": "StarWarsOutlaws.png",
+    "size": 84.0,
+    "version": "",
+    "build_id": "",
+    "coming_soon": false,
+    "sort_order": 42
+  },
+  {
+    "name": "Stellar Blade",
+    "url": "steam_depot",
+    "image": "StellarBlade.png",
+    "size": 62.0,
+    "version": "",
+    "build_id": "",
+    "coming_soon": false,
+    "sort_order": 43
+  },
+  {
+    "name": "Street Fighter 6",
+    "url": "steam_depot",
+    "image": "SF6.png",
+    "size": 100.0,
+    "version": "",
+    "build_id": "",
+    "coming_soon": false,
+    "sort_order": 44
+  },
+  {
+    "name": "The First Berserker: Khazan",
+    "url": "steam_depot",
+    "image": "TFBK.png",
+    "size": 23.0,
+    "version": "",
+    "build_id": "",
+    "coming_soon": false,
+    "sort_order": 45
+  },
+  {
+    "name": "Two Point Campus",
+    "url": "steam_depot",
+    "image": "tpc.png",
+    "size": 20.0,
+    "version": "",
+    "build_id": "",
+    "coming_soon": false,
+    "sort_order": 46
+  },
+  {
+    "name": "Yakuza Kiwami 3 & Dark Ties",
+    "url": "steam_depot",
+    "image": "yk3.png",
+    "size": 50.0,
+    "version": "",
+    "build_id": "",
+    "coming_soon": false,
+    "sort_order": 47
+  },
+  {
+    "name": "F1® Manager 2024",
+    "url": "steam_depot",
+    "image": "",
+    "size": 0.0,
+    "appid": "2591280",
+    "coming_soon": false,
+    "sort_order": 48
+  }
+]
