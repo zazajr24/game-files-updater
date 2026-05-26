@@ -1,0 +1,49 @@
+"AppState"
+{
+	"appid"		"1905180"
+	"universe"		"1"
+	"LauncherPath"		"C:\\Program Files (x86)\\Steam\\steam.exe"
+	"name"		"OBS Studio"
+	"StateFlags"		"4"
+	"installdir"		"OBS Studio"
+	"lastupdated"		"1775252701"
+	"LastPlayed"		"1778444506"
+	"SizeOnDisk"		"479221416"
+	"StagingSize"		"0"
+	"buildid"		"22626169"
+	"LastOwner"		"76561198900910866"
+	"DownloadType"		"1"
+	"UpdateResult"		"0"
+	"BytesToDownload"		"3927840"
+	"BytesDownloaded"		"3927840"
+	"BytesToStage"		"92532725"
+	"BytesStaged"		"92532725"
+	"TargetBuildID"		"22626169"
+	"AutoUpdateBehavior"		"0"
+	"AllowOtherDownloadsWhileRunning"		"0"
+	"ScheduledAutoUpdate"		"0"
+	"InstalledDepots"
+	{
+		"1905181"
+		{
+			"manifest"		"1944704983948705445"
+			"size"		"479221416"
+		}
+	}
+	"InstallScripts"
+	{
+		"1905181"		"scripts\\installscript.vdf"
+	}
+	"SharedDepots"
+	{
+		"228989"		"228980"
+	}
+	"UserConfig"
+	{
+		"language"		"english"
+	}
+	"MountedConfig"
+	{
+		"language"		"english"
+	}
+}

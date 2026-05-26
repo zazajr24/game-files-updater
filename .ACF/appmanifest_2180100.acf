@@ -1,0 +1,48 @@
+"AppState"
+{
+	"appid"		"2180100"
+	"universe"		"1"
+	"LauncherPath"		"C:\\Program Files (x86)\\Steam\\steam.exe"
+	"name"		"Proton Hotfix"
+	"StateFlags"		"1574"
+	"installdir"		"Proton Hotfix"
+	"lastupdated"		"1766491616"
+	"LastPlayed"		"0"
+	"SizeOnDisk"		"1422797461"
+	"StagingSize"		"1691030937"
+	"buildid"		"20625377"
+	"LastOwner"		"76561198900910866"
+	"DownloadType"		"1"
+	"UpdateResult"		"11"
+	"BytesToDownload"		"393316448"
+	"BytesDownloaded"		"393316448"
+	"BytesToStage"		"1453636986"
+	"BytesStaged"		"1453636986"
+	"TargetBuildID"		"23283288"
+	"AutoUpdateBehavior"		"0"
+	"AllowOtherDownloadsWhileRunning"		"0"
+	"ScheduledAutoUpdate"		"0"
+	"InstalledDepots"
+	{
+		"2180101"
+		{
+			"manifest"		"744769095310280954"
+			"size"		"1422797461"
+		}
+	}
+	"StagedDepots"
+	{
+		"2180101"
+		{
+			"manifest"		"7867413349564926229"
+			"size"		"1453636986"
+			"dlcappid"		"0"
+		}
+	}
+	"UserConfig"
+	{
+	}
+	"MountedConfig"
+	{
+	}
+}

@@ -1,0 +1,41 @@
+"AppState"
+{
+	"appid"		"3478870"
+	"universe"		"1"
+	"LauncherPath"		"C:\\Program Files (x86)\\Steam\\steam.exe"
+	"name"		"GeoGuessr Steam Edition"
+	"StateFlags"		"6"
+	"installdir"		"GeoGuessr Duels"
+	"lastupdated"		"1779184453"
+	"LastPlayed"		"1776282489"
+	"SizeOnDisk"		"363827260"
+	"StagingSize"		"0"
+	"buildid"		"23282737"
+	"LastOwner"		"76561198900910866"
+	"DownloadType"		"4"
+	"UpdateResult"		"0"
+	"BytesToDownload"		"513632"
+	"BytesDownloaded"		"0"
+	"BytesToStage"		"0"
+	"BytesStaged"		"0"
+	"TargetBuildID"		"23394114"
+	"AutoUpdateBehavior"		"0"
+	"AllowOtherDownloadsWhileRunning"		"0"
+	"ScheduledAutoUpdate"		"1780888932"
+	"InstalledDepots"
+	{
+		"3478873"
+		{
+			"manifest"		"3884895561302330078"
+			"size"		"363827260"
+		}
+	}
+	"UserConfig"
+	{
+		"language"		"german"
+	}
+	"MountedConfig"
+	{
+		"language"		"german"
+	}
+}

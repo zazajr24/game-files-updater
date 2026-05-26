@@ -1,0 +1,86 @@
+"AppState"
+{
+	"appid"		"337000"
+	"universe"		"1"
+	"LauncherPath"		"C:\\Program Files (x86)\\Steam\\steam.exe"
+	"name"		"Deus Ex: Mankind Divided™"
+	"StateFlags"		"4"
+	"installdir"		"Deus Ex Mankind Divided"
+	"lastupdated"		"1779738516"
+	"LastPlayed"		"0"
+	"SizeOnDisk"		"45656315411"
+	"StagingSize"		"0"
+	"buildid"		"3355064"
+	"LastOwner"		"76561198900910866"
+	"DownloadType"		"1"
+	"UpdateResult"		"0"
+	"BytesToDownload"		"25917152480"
+	"BytesDownloaded"		"25917152480"
+	"BytesToStage"		"45706765572"
+	"BytesStaged"		"45706765572"
+	"TargetBuildID"		"3355064"
+	"AutoUpdateBehavior"		"0"
+	"AllowOtherDownloadsWhileRunning"		"0"
+	"ScheduledAutoUpdate"		"0"
+	"InstalledDepots"
+	{
+		"337001"
+		{
+			"manifest"		"6668233308299956634"
+			"size"		"36510175586"
+		}
+		"337002"
+		{
+			"manifest"		"8765950038138732330"
+			"size"		"213240880"
+		}
+		"366150"
+		{
+			"manifest"		"9048829369121758221"
+			"size"		"5417596149"
+			"dlcappid"		"366150"
+		}
+		"476950"
+		{
+			"manifest"		"8778308140915500539"
+			"size"		"169335001"
+			"dlcappid"		"476950"
+		}
+		"476951"
+		{
+			"manifest"		"1116062803971033812"
+			"size"		"43953416"
+			"dlcappid"		"476951"
+		}
+		"476952"
+		{
+			"manifest"		"630947030089599915"
+			"size"		"63973731"
+			"dlcappid"		"476952"
+		}
+		"337004"
+		{
+			"manifest"		"354702960842082285"
+			"size"		"1610691852"
+		}
+		"337006"
+		{
+			"manifest"		"7171976716772974234"
+			"size"		"1627348796"
+		}
+	}
+	"SharedDepots"
+	{
+		"228984"		"228980"
+		"228990"		"228980"
+		"229002"		"228980"
+	}
+	"UserConfig"
+	{
+		"language"		"german"
+	}
+	"MountedConfig"
+	{
+		"language"		"german"
+	}
+}

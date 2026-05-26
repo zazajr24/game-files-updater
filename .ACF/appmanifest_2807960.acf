@@ -1,0 +1,92 @@
+"AppState"
+{
+	"appid"		"2807960"
+	"universe"		"1"
+	"LauncherPath"		"C:\\Program Files (x86)\\Steam\\steam.exe"
+	"name"		"Battlefield™ 6"
+	"StateFlags"		"4"
+	"installdir"		"Battlefield 6"
+	"lastupdated"		"1779788784"
+	"LastPlayed"		"1779565148"
+	"SizeOnDisk"		"103381907722"
+	"StagingSize"		"0"
+	"buildid"		"23263555"
+	"LastOwner"		"76561198900910866"
+	"DownloadType"		"1"
+	"UpdateResult"		"0"
+	"BytesToDownload"		"105568304"
+	"BytesDownloaded"		"105568304"
+	"BytesToStage"		"6424219504"
+	"BytesStaged"		"6424219504"
+	"TargetBuildID"		"23263555"
+	"AutoUpdateBehavior"		"0"
+	"AllowOtherDownloadsWhileRunning"		"0"
+	"ScheduledAutoUpdate"		"0"
+	"InstalledDepots"
+	{
+		"2807961"
+		{
+			"manifest"		"8301964179182217073"
+			"size"		"46948371002"
+		}
+		"2807963"
+		{
+			"manifest"		"6221815401841604451"
+			"size"		"4891385296"
+			"dlcappid"		"3348440"
+		}
+		"2807965"
+		{
+			"manifest"		"7158116414615855722"
+			"size"		"677307679"
+			"dlcappid"		"3348470"
+		}
+		"2807966"
+		{
+			"manifest"		"7833244467381348034"
+			"size"		"45869270834"
+			"dlcappid"		"3348410"
+		}
+		"2807968"
+		{
+			"manifest"		"4294663153774666071"
+			"size"		"890181646"
+			"dlcappid"		"3348450"
+		}
+		"2807971"
+		{
+			"manifest"		"7025601654926847363"
+			"size"		"606287140"
+			"dlcappid"		"3348460"
+		}
+		"3028323"
+		{
+			"manifest"		"164773281281052208"
+			"size"		"3255485320"
+		}
+		"3893181"
+		{
+			"manifest"		"7504058622051201888"
+			"size"		"313830621"
+		}
+	}
+	"InstallScripts"
+	{
+		"2807961"		"installScript.vdf"
+		"3893181"		"EAJavelinInstaller_installscript.vdf"
+	}
+	"SharedDepots"
+	{
+		"228989"		"228980"
+	}
+	"UserConfig"
+	{
+		"language"		"german"
+		"DisabledDLC"		"4031740,4031730,3574360,3574340,3574350,3348480,3348490,3348420,3348430,3028330"
+	}
+	"MountedConfig"
+	{
+		"language"		"german"
+		"DisabledDLC"		"4031740,4031730,3574360,3574340,3574350,3348480,3348490,3348420,3348430,3028330"
+	}
+}

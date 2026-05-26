@@ -1,0 +1,46 @@
+"AppState"
+{
+	"appid"		"3533100"
+	"universe"		"1"
+	"LauncherPath"		"C:\\Program Files (x86)\\Steam\\steam.exe"
+	"name"		"Wrap House Simulator🌯"
+	"StateFlags"		"4"
+	"installdir"		"Wrap House Simulator🌯"
+	"lastupdated"		"1775932295"
+	"LastPlayed"		"1779710011"
+	"SizeOnDisk"		"3088055666"
+	"StagingSize"		"0"
+	"buildid"		"22728480"
+	"LastOwner"		"76561199750929270"
+	"DownloadType"		"1"
+	"UpdateResult"		"0"
+	"BytesToDownload"		"66096384"
+	"BytesDownloaded"		"66096384"
+	"BytesToStage"		"2656936260"
+	"BytesStaged"		"2656936260"
+	"TargetBuildID"		"22728480"
+	"AutoUpdateBehavior"		"0"
+	"AllowOtherDownloadsWhileRunning"		"0"
+	"ScheduledAutoUpdate"		"0"
+	"InstalledDepots"
+	{
+		"3533101"
+		{
+			"manifest"		"8378422122401250131"
+			"size"		"3088055666"
+		}
+	}
+	"SharedDepots"
+	{
+		"228989"		"228980"
+		"228990"		"228980"
+	}
+	"UserConfig"
+	{
+		"language"		"english"
+	}
+	"MountedConfig"
+	{
+		"language"		"english"
+	}
+}

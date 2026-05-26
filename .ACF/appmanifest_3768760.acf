@@ -1,0 +1,41 @@
+"AppState"
+{
+	"appid"		"3768760"
+	"universe"		"1"
+	"LauncherPath"		"C:\\program files (x86)\\steam\\steam.exe"
+	"name"		"007 First Light"
+	"StateFlags"		"4"
+	"installdir"		"007 First Light"
+	"lastupdated"		"1779808204"
+	"LastPlayed"		"0"
+	"SizeOnDisk"		"57179326292"
+	"StagingSize"		"0"
+	"buildid"		"23388781"
+	"LastOwner"		"76561198315899824"
+	"DownloadType"		"1"
+	"UpdateResult"		"0"
+	"BytesToDownload"		"53191871664"
+	"BytesDownloaded"		"53191871664"
+	"BytesToStage"		"57179326292"
+	"BytesStaged"		"57179326292"
+	"TargetBuildID"		"23388781"
+	"AutoUpdateBehavior"		"0"
+	"AllowOtherDownloadsWhileRunning"		"0"
+	"ScheduledAutoUpdate"		"0"
+	"InstalledDepots"
+	{
+		"3768761"
+		{
+			"manifest"		"7322178669849310269"
+			"size"		"57179326292"
+		}
+	}
+	"UserConfig"
+	{
+		"language"		"english"
+	}
+	"MountedConfig"
+	{
+		"language"		"english"
+	}
+}
