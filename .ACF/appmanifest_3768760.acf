@@ -2,12 +2,12 @@
 {
 	"appid"		"3768760"
 	"universe"		"1"
-	"LauncherPath"		"C:\\Program Files (x86)\\Steam\\steam.exe"
+	"LauncherPath"		"D:\\007-frist light\\steam.exe"
 	"name"		"007 First Light"
 	"StateFlags"		"4"
 	"installdir"		"007 First Light"
-	"lastupdated"		"1779996452"
-	"LastPlayed"		"1780087625"
+	"lastupdated"		"1780052756"
+	"LastPlayed"		"1780052789"
 	"SizeOnDisk"		"57171473143"
 	"StagingSize"		"0"
 	"buildid"		"23430993"
@@ -22,7 +22,6 @@
 	"AutoUpdateBehavior"		"0"
 	"AllowOtherDownloadsWhileRunning"		"0"
 	"ScheduledAutoUpdate"		"0"
-	"StagingFolder"		"0"
 	"InstalledDepots"
 	{
 		"3768761"
