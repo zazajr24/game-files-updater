@@ -1,80 +1,62 @@
 "AppState"
 {
- "appid"		"3764200"
- "universe"		"1"
- "LauncherPath"		"C:\\Program Files (x86)\\Steam\\steam.exe"
- "name"		"Resident Evil Requiem"
- "StateFlags"		"4"
- "installdir"		"Resident Evil Requiem"
- "LastUpdated"		"1778265218"
- "LastPlayed"		"1778265218"
- "SizeOnDisk"		"0"
- "StagingSize"		"0"
- "buildid"		"0"
- "LastOwner"		"76561198315899824"
- "DownloadType"		"1"
- "UpdateResult"		"0"
- "BytesToDownload"		"0"
- "BytesDownloaded"		"0"
- "BytesToStage"		"0"
- "BytesStaged"		"0"
- "TargetBuildID"		"0"
- "AutoUpdateBehavior"		"0"
- "AllowOtherDownloadsWhileRunning"		"0"
- "ScheduledAutoUpdate"		"0"
- "FullValidateAfterNextUpdate"		"1"
- "InstalledDepots"
- {
-  "3764201"
-  {
-   "manifest"		"9166256367562763038"
-   "size"		"0"
-  }
-  "3764203"
-  {
-   "manifest"		"651754783565368360"
-   "size"		"0"
-   "dlcappid"		"3764203"
-  }
-  "3764205"
-  {
-   "manifest"		"4436866528626191669"
-   "size"		"0"
-   "dlcappid"		"3764205"
-  }
-  "3764206"
-  {
-   "manifest"		"136565968785594279"
-   "size"		"0"
-   "dlcappid"		"3764206"
-  }
-  "3990800"
-  {
-   "manifest"		"9181787779883827112"
-   "size"		"0"
-   "dlcappid"		"3990800"
-  }
-  "3990820"
-  {
-   "manifest"		"509708311968316285"
-   "size"		"0"
-   "dlcappid"		"3990820"
-  }
- }
- "InstallScripts"
- {
-  "3764201"		"InstallerMessage_RunScript.vdf"
- }
- "SharedDepots"
- {
-  "228989"		"228980"
- }
- "UserConfig"
- {
-  "language"		"arabic"
- }
- "MountedConfig"
- {
-  "language"		"arabic"
- }
+	"appid"		"3764200"
+	"universe"		"1"
+	"LauncherPath"		"C:\\Program Files (x86)\\Steam\\steam.exe"
+	"name"		"Resident Evil Requiem"
+	"StateFlags"		"4"
+	"installdir"		"RESIDENT EVIL requiem BIOHAZARD requiem"
+	"LastUpdated"		"1778253866"
+	"LastPlayed"		"1777846220"
+	"SizeOnDisk"		"82868340393"
+	"StagingSize"		"0"
+	"buildid"		"22898177"
+	"LastOwner"		"76561198315899824"
+	"DownloadType"		"1"
+	"UpdateResult"		"0"
+	"BytesToDownload"		"676973376"
+	"BytesDownloaded"		"676973376"
+	"BytesToStage"		"1231388786"
+	"BytesStaged"		"1231388786"
+	"TargetBuildID"		"22898177"
+	"AutoUpdateBehavior"		"0"
+	"AllowOtherDownloadsWhileRunning"		"0"
+	"ScheduledAutoUpdate"		"0"
+	"InstalledDepots"
+	{
+		"3764201"
+		{
+			"manifest"		"2990234554016452841"
+			"size"		"79384590628"
+		}
+		"3764203"
+		{
+			"manifest"		"8536000884170430262"
+			"size"		"3948877451"
+		}
+		"3990800"
+		{
+			"manifest"		"9181787779883827112"
+			"size"		"154141549"
+			"dlcappid"		"3990800"
+		}
+		"3990820"
+		{
+			"manifest"		"509708311968316285"
+			"size"		"989393708"
+			"dlcappid"		"3990820"
+		}
+	}
+	"SharedDepots"
+	{
+		"228989"		"228980"
+	}
+	"UserConfig"
+	{
+		"language"		"english"
+	}
+	"MountedConfig"
+	{
+		"language"		"english"
+	}
 }
