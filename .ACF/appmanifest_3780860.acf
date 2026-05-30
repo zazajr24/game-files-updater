@@ -1,0 +1,50 @@
+"AppState"
+{
+	"appid"		"3780860"
+	"universe"		"1"
+	"LauncherPath"		"C:\\Program Files (x86)\\Steam\\steam.exe"
+	"name"		"Hell Let Loose Vietnam: Playtest"
+	"StateFlags"		"4"
+	"installdir"		"Hell Let Loose - Vietnam Playtest"
+	"lastupdated"		"1780071126"
+	"LastPlayed"		"1780071217"
+	"SizeOnDisk"		"20335479159"
+	"StagingSize"		"0"
+	"buildid"		"23453537"
+	"LastOwner"		"76561198900910866"
+	"DownloadType"		"1"
+	"UpdateResult"		"0"
+	"BytesToDownload"		"17923679328"
+	"BytesDownloaded"		"17923679328"
+	"BytesToStage"		"20335479159"
+	"BytesStaged"		"20335479159"
+	"TargetBuildID"		"23453537"
+	"AutoUpdateBehavior"		"0"
+	"AllowOtherDownloadsWhileRunning"		"0"
+	"ScheduledAutoUpdate"		"0"
+	"InstalledDepots"
+	{
+		"3780861"
+		{
+			"manifest"		"1659738065263098478"
+			"size"		"20335479159"
+		}
+	}
+	"InstallScripts"
+	{
+		"3780861"		"EasyAntiCheat\\installscript.vdf"
+	}
+	"SharedDepots"
+	{
+		"228989"		"228980"
+		"228990"		"228980"
+	}
+	"UserConfig"
+	{
+		"language"		"german"
+	}
+	"MountedConfig"
+	{
+		"language"		"german"
+	}
+}

@@ -1,0 +1,100 @@
+"AppState"
+{
+	"appid"		"1985820"
+	"universe"		"1"
+	"LauncherPath"		"C:\\program files (x86)\\steam\\steam.exe"
+	"name"		"Call of Duty®: Vanguard"
+	"StateFlags"		"4"
+	"installdir"		"Call of Duty Vanguard"
+	"lastupdated"		"1780130844"
+	"LastPlayed"		"0"
+	"SizeOnDisk"		"64128782488"
+	"StagingSize"		"0"
+	"buildid"		"22642782"
+	"LastOwner"		"76561198900910866"
+	"DownloadType"		"1"
+	"UpdateResult"		"0"
+	"BytesToDownload"		"63322109824"
+	"BytesDownloaded"		"63322109824"
+	"BytesToStage"		"64128782488"
+	"BytesStaged"		"64128782488"
+	"TargetBuildID"		"22642782"
+	"AutoUpdateBehavior"		"0"
+	"AllowOtherDownloadsWhileRunning"		"0"
+	"ScheduledAutoUpdate"		"0"
+	"InstalledDepots"
+	{
+		"1985821"
+		{
+			"manifest"		"4863951851344475619"
+			"size"		"389290130"
+		}
+		"1985822"
+		{
+			"manifest"		"869885966575789895"
+			"size"		"37934902142"
+		}
+		"2093481"
+		{
+			"manifest"		"4351629546800988521"
+			"size"		"28668056"
+		}
+		"2093482"
+		{
+			"manifest"		"5910606411886739689"
+			"size"		"28782744"
+		}
+		"2089202"
+		{
+			"manifest"		"7245362470703777816"
+			"size"		"1421371280"
+		}
+		"2093483"
+		{
+			"manifest"		"5529248281599289337"
+			"size"		"128480172"
+		}
+		"2089200"
+		{
+			"manifest"		"4208906105182495219"
+			"size"		"19740426492"
+			"dlcappid"		"2089200"
+		}
+		"2089203"
+		{
+			"manifest"		"4582648428637551612"
+			"size"		"694243864"
+			"dlcappid"		"2089200"
+		}
+		"2093475"
+		{
+			"manifest"		"2919749160357006710"
+			"size"		"9772032"
+			"dlcappid"		"2089200"
+		}
+		"2093476"
+		{
+			"manifest"		"3568969356523392663"
+			"size"		"3743008008"
+			"dlcappid"		"2089200"
+		}
+		"2093485"
+		{
+			"manifest"		"5035808175532081895"
+			"size"		"9837568"
+			"dlcappid"		"2089200"
+		}
+	}
+	"InstallScripts"
+	{
+		"1985821"		"installscript_1985820.vdf"
+	}
+	"UserConfig"
+	{
+		"language"		"german"
+	}
+	"MountedConfig"
+	{
+		"language"		"german"
+	}
+}
