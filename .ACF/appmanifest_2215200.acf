@@ -2,33 +2,32 @@
 {
 	"appid"		"2215200"
 	"universe"		"1"
-	"LauncherPath"		"C:\\Program Files (x86)\\Steam\\steam.exe"
+	"LauncherPath"		"D:\\Games\\OFFLINESTEAM\\steam.exe"
 	"name"		"LEGO® Batman™: Legacy of the Dark Knight"
 	"StateFlags"		"4"
 	"installdir"		"LEGO Batman - Legacy of the Dark Knight"
-	"lastupdated"		"1779804437"
-	"LastPlayed"		"1779391043"
-	"SizeOnDisk"		"42114378710"
+	"lastupdated"		"1779223561"
+	"LastPlayed"		"1779223589"
+	"SizeOnDisk"		"42126456373"
 	"StagingSize"		"0"
-	"buildid"		"23314029"
+	"buildid"		"23222834"
 	"LastOwner"		"76561198315899824"
 	"DownloadType"		"1"
 	"UpdateResult"		"0"
-	"BytesToDownload"		"1314064912"
-	"BytesDownloaded"		"1314064912"
-	"BytesToStage"		"40768601427"
-	"BytesStaged"		"40768601427"
-	"TargetBuildID"		"23314029"
+	"BytesToDownload"		"40666947328"
+	"BytesDownloaded"		"41027196640"
+	"BytesToStage"		"42126456373"
+	"BytesStaged"		"42792333155"
+	"TargetBuildID"		"23222834"
 	"AutoUpdateBehavior"		"0"
 	"AllowOtherDownloadsWhileRunning"		"0"
 	"ScheduledAutoUpdate"		"0"
-	"StagingFolder"		"0"
 	"InstalledDepots"
 	{
 		"2215201"
 		{
-			"manifest"		"8744395932724193069"
-			"size"		"42114378710"
+			"manifest"		"6204730580506183716"
+			"size"		"42126456373"
 		}
 	}
 	"SharedDepots"
@@ -38,10 +37,10 @@
 	}
 	"UserConfig"
 	{
-		"language"		"german"
+		"language"		"english"
 	}
 	"MountedConfig"
 	{
-		"language"		"german"
+		"language"		"english"
 	}
 }
