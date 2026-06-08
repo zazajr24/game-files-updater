@@ -1,9 +1,9 @@
 {
-  "version": "1.6.35",
+  "version": "1.6.36",
   "name": "Gamers Unlimited Launcher.exe",
   "url": "https://raw.githubusercontent.com/ZazaJr24/Game-Files-UpdateR/main/launcher/Gamers%20Unlimited%20Launcher.exe",
-  "sha256": "e57cb210d63cbc22ef3671c878b85cfee954cd6caa5cdc764ea6146b0ac9d41a",
-  "size": 13044224,
+  "sha256": "9c88abee7b6525409618ca4d4e2d5c2b7e3b44b2c322d2490f24cfe2c7109a65",
+  "size": 13049856,
   "channel": "stable",
-  "updated_at": "2026-06-08T18:08:42.851997Z"
+  "updated_at": "2026-06-08T18:34:15.248807Z"
 }
