@@ -1,0 +1,62 @@
+-- 1849250's Lua and Manifest Created by Hubcap Manifest
+-- EA SPORTS™ WRC
+-- Created: September 29, 2025 at 09:49:58 EDT
+-- Website: https://hubcapmanifest.com/
+-- Total Depots: 39
+-- Total DLCs: 10
+-- Shared Depots: 2
+
+-- MAIN APPLICATION
+addappid(1849250) -- EA SPORTS™ WRC
+-- MAIN APP DEPOTS
+addappid(1849251, 1, "4decb42be892c64720f88af5f55dd5ccfa8b43d2e4fd497e4d4b6c7b820ab4a5") -- Depot 1849251
+addappid(1849252, 1, "89589235a0f3c40ade834009a88beb7a9f52e852b309cd034a40fa108b7d7161") -- Depot 1849252
+addappid(1849253, 1, "5bbb4f374b098dd262eb5f98793ec641cfc11c7ad255cc26830c497d16d78786") -- Depot 1849253
+addappid(1849254, 1, "a7943c5fe2fa5619d0af3671257f591218a2e477e4f2ffb92dfcc92fd13ec20f") -- Depot 1849254
+addappid(1849255, 1, "4bced2d8f7db4d6920cf74f8718890f8bff15b9d8a1f9a39ef978757d76664de") -- Depot 1849255
+addappid(1849256, 1, "39122e1ccee7c18c7fc7e995794ef7f752738630489c8fbe276f2a3831cc71d4") -- Depot 1849256
+addappid(1849257, 1, "bff9acca6afdeb146c80bb62c29763d97594e1f2feaf505907da800b7a98b6cb") -- Depot 1849257
+addappid(1849258, 1, "424a7da4c17bcdab8d2766fffe8e7c935280d49739e7e6a256b0c437c09a5431") -- Depot 1849258
+addappid(1849259, 1, "304276bd1768ae7596b68a2b55ae226212049047a35be32045e4577625b08b69") -- Depot 1849259
+addappid(1877420, 1, "efc8cca8296017ceca6b60ee770ac134e158b3e40f58f02f12e42925e17d9a0a") -- Depot 1877420
+addappid(1877421, 1, "ab9464a0071271c65c875329a5daef8378bad81e763efab17f2a921d98207d7a") -- Depot 1877421
+addappid(1877422, 1, "fd33a6510b4c1d7ed3e3a6891f7277338362fdb1f86d5a274d22a131ccad8562") -- Depot 1877422
+addappid(1877423, 1, "21d743c9e249c4af25a14b1f7792ec6a4e9c804fb41d6fa35efdc46923f57a43") -- Depot 1877423
+addappid(1877424, 1, "af08ba79156d016927d268da520569b2002a8d3f6ba5d75b914f8fad5c13a185") -- Depot 1877424
+addappid(1877425, 1, "57426f536121f5e7d5835242a99bc3f188bcb3008159e9f4863f4fa6f9552fed") -- Depot 1877425
+addappid(1877426, 1, "ec3ea08e950645ea9f41ae6f080d31766fc94b53d44a34cba605d1fed0da30dd") -- Depot 1877426
+addappid(1877427, 1, "bc2e8b927299a61035e0dd4bf4adb530c07614cb5d61b3c63176c8c22d1e1dd9") -- Depot 1877427
+addappid(1877429, 1, "d07e7f0b59bda1724ec69afc088aa7843077500e990a634f6ea516779ede314a") -- Depot 1877429
+addappid(1877430, 1, "06d8b1e0c07c020efce58bb5955ffdfc8fdc30562549f90583d640899a62ad60") -- Depot 1877430
+addappid(1877431, 1, "54cb130c8b94c72beaa74ad4673f7f75c317b8637ecf8ca38f4b9d9a50db0d60") -- Depot 1877431
+addappid(1877432, 1, "3911158d118cd6e5daba67c96ded17a1050e4feaecf288f2fce49fc8f6482c53") -- Depot 1877432
+addappid(1877434, 1, "d2f549f876998dd68b648a4a6484ac34f7adddd26f1dc1a5b8c300d86019194e") -- Depot 1877434
+addappid(1877435, 1, "3eee56e949efcf435fa80d587a28f12289570de5a80f825413e925f5a4e10eaa") -- Depot 1877435
+addappid(1877436, 1, "0ba30c8dc7a41bad37b089ee927d5569c0dd104ae3901bff3af166b595d042f6") -- Depot 1877436
+addappid(1877437, 1, "0e078aba2a238398c5d3a8c3a5aebb717028fe1ed0a78c224bdee072d5a5cf72") -- Depot 1877437
+addappid(1877438, 1, "1968c326554a81324c6bce3c54ab6b92893a50a7573efa57d0096b793d885f23") -- Depot 1877438
+addappid(1877439, 1, "ddb2cd5154359fe3ae5e7b6e2b5b21de6060b66072e58697bd97bc431e06758f") -- Depot 1877439
+addappid(1938940, 1, "4d6d590ab599c77dc5ae88ad7a467fb64e6960127ca2cfccbcc2908d8c13d98a") -- Depot 1938940
+addappid(1877428, 1, "3ec3f181086925e3c9a4804dc00f274dcd7e6073c04cfcfe2ef8579398706e81") -- Depot 1877428
+addappid(1877433, 1, "145b139f295f695d80a2e07719d71a7e4ff663ffdde0a8c42c6f7f4e0c490ef1") -- Depot 1877433
+addappid(1938941, 1, "87d4ea78a1748223f33096c872f257b1b62a3784c9463c95faee3e2cca4d3a84") -- Depot 1938941
+addappid(1938942, 1, "86220e16ae6f952bd4de87fbcd953e02b1e24ac74de1c850f13d3452eaecb22c") -- Depot 1938942
+addappid(1938943, 1, "7331f7659b453dc2038417b1590837c7c9c2e137b4879bbf0be9540c76c02021") -- Depot 1938943
+addappid(1938945, 1, "4f840dcf958ae80242864a961be5903148d1befd369f5f06b599b9efbf3396d5") -- Depot 1938945
+addappid(1938946, 1, "c886a889951c9e48352b22562857312df7508777161c285400841e0d1052ca52") -- Depot 1938946
+addappid(1938944, 1, "2702c88984c92dfbac63da507c90c2a112f4f5f90a870eb90eca4757161d2be8") -- Depot 1938944
+addappid(1938948, 1, "1344532195a4c4c84afa1f34c6de349cef91337699de997af021b771fa40f278") -- Depot 1938948
+-- SHARED DEPOTS (from other apps)
+addappid(228988, 1, "1845444d5e2cfd0ae65ae4a8fedb6e2fbf776fcc5b913ab4ac461bc9a74f8358") -- VC 2019 Redist (Shared from App 228980)
+addappid(228990, 1, "44d8c45ce229a11c4f231a3d2a350eaf80b0d69a8af938ec7ccca720f694b0e8") -- DirectX Jun 2010 Redist (Shared from App 228980)
+-- DLCS WITHOUT DEDICATED DEPOTS
+addappid(2347250) -- EA SPORTS WRC Season 1 VIP Rally Pass
+addappid(2347251) -- EA SPORTS WRC Season 2 VIP Rally Pass
+addappid(2347252) -- EA SPORTS WRC Season 3 VIP Rally Pass
+addappid(2347253) -- EA SPORTS WRC Season 4 VIP Rally Pass
+addappid(2347254) -- EA SPORTS WRC Season 5 VIP Rally Pass
+addappid(2347270) -- WRC 23 - Preorder Content
+addappid(3054770) -- EA SPORTS WRC 24 Locations  Cars Content Pack
+addappid(3128480) -- EA SPORTS WRC 24 Season Expansion Bundle
+addappid(3128500) -- EA SPORTS WRC 24 Le Maestros Content Pack
+addappid(3128510) -- EA SPORTS WRC 24 Hard Chargers Content Pack
