@@ -1,6 +1,6 @@
 -- 3768760's Lua and Manifest Created by Hubcap Manifest
 -- 007 First Light
--- Created: June 04, 2026 at 10:02:52 EDT
+-- Created: June 11, 2026 at 09:35:11 EDT
 -- Website: https://hubcapmanifest.com/
 -- Total Depots: 2
 -- Total DLCs: 21
