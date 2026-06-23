@@ -11680,7 +11680,71 @@
       "required_depots": [
         "3321461"
       ],
-      "unassigned_manifest_sets": []
+      "unassigned_manifest_sets": [
+        {
+          "branch": "public",
+          "date": "2026-06-13",
+          "depots": [
+            {
+              "archive_compression": "",
+              "archive_sha256": "",
+              "archive_size_bytes": 0,
+              "archive_url": "",
+              "captured_at": "2026-06-13T10:29:39Z",
+              "depot_id": "3321461",
+              "manifest_id": "3263209083916650144",
+              "manifest_sha256": "",
+              "name": "Depot 3321461",
+              "required": true,
+              "size_bytes": 0
+            }
+          ],
+          "first_seen": "2026-06-13T10:29:39Z",
+          "last_seen": "2026-06-20T11:16:39Z",
+          "manifest_set_hash": "de0ed00033180eaf",
+          "source": "history-miner-unassigned",
+          "time_utc": "2026-06-13T10:29:39Z",
+          "total_size_bytes": 0
+        },
+        {
+          "branch": "public",
+          "date": "2026-06-09",
+          "depots": [
+            {
+              "archive_compression": "",
+              "archive_sha256": "",
+              "archive_size_bytes": 0,
+              "archive_url": "",
+              "captured_at": "2026-06-09T17:47:41Z",
+              "depot_id": "3321461",
+              "manifest_id": "3263209083916650144",
+              "manifest_sha256": "",
+              "name": "Depot 3321461",
+              "required": true,
+              "size_bytes": 0
+            },
+            {
+              "archive_compression": "",
+              "archive_sha256": "",
+              "archive_size_bytes": 0,
+              "archive_url": "",
+              "captured_at": "2026-06-09T17:47:41Z",
+              "depot_id": "3321462",
+              "manifest_id": "5497402605978848495",
+              "manifest_sha256": "",
+              "name": "Depot 3321462",
+              "required": true,
+              "size_bytes": 0
+            }
+          ],
+          "first_seen": "2026-06-09T17:47:41Z",
+          "last_seen": "2026-06-12T17:11:50Z",
+          "manifest_set_hash": "45aba4c24bc66202",
+          "source": "history-miner-unassigned",
+          "time_utc": "2026-06-09T17:47:41Z",
+          "total_size_bytes": 0
+        }
+      ]
     },
     "3357650": {
       "app_id": "3357650",
@@ -13662,9 +13726,9 @@
     }
   },
   "catalog_key_id": "686b9390f9dd61e7",
-  "checksum": "697ec7ddb70110d0096c5bce4e7c3d3284b95356d4a629c0fb61c39a99138d3a",
-  "generated_at": "2026-06-22T15:47:11.344605+00:00",
+  "checksum": "d035db3a217d711d2b68f12c1ef0881a9091264c509c0d133fb3d43d97592e24",
+  "generated_at": "2026-06-23T11:59:56.299142+00:00",
   "schema_version": 1,
-  "signature": "rsa-sha256:EAfb/ecJPiLRMX/gUQXLEXa9BxpGMqUH9LvoaxbxSKuMu24bv8rKoerhiA0a3iAxfFSoXtR34qqZY/Mka4Nd/A/+cK/RnyO/Xr1ny6Do8uDMjvnSx1cVBZzSsNwPQM9ihNZWnCONVfSm1TJZnB6AJ2w5CiU/aJ81Yfq+eEAHCekOrzIo8tagfgRqgghl89snzXbqbbr3LS6KC8RzXPiefmAAE0c7ZyzZsFrLRNSku2VkIjkZ6aUq739ZMfe2jNiwyPzbytg52DK/tbkPhiMEqHhrY3rcTI5dDFVNS/jRTiTc62y4R38HNIYGNcp7/0ZpSnqsPMgM40kdvmmsKANvPo+lQ4t8NNb++C/zdynMZa0nHDZiVtJXum39NHj8gX+EoDUj4/49NmQckxMCuqgoOhn5CsRhhcHE6CZ8foYJBzdp1H8bV9XjzKl6jUqRn4B1EN4C4QHEnz6jQcFADi3ZK6mmxYApFKP+nrxApPUCc7hgiyNM12Iu/9+S22QTFOvr",
+  "signature": "rsa-sha256:b+8V82bh7+fHIY1qvhLktp0x0oVgBlxl9MHumYVeM219bwUjXXpNxU4D+TIiccI+91QSh5+RzK+T1X8gStU3WHDx6SLXnCxMO2mKwhoc/O27s4zr3TKSLbELDHMWn7fz0R5w69OexCBl4Tfa27IvE4PKlkpoXls9nLbtch68NGz4+1jBiCf77+6U2AkDOcsqehHNib1PT4+UtPmQIEj8DQx+bqswCBfpgyl1xjVfJR+RHQUlM/lsD+4/ZP7Erf7efmCOw1NgUAO09yEQxSKywKeA6XcvnDTFsD3NiXvKhQEx99lbUf85JD6FLRs2vwiEupizLTwig+QXpoCP/8/QZUpSUNby1wK3YWnOrgP7nWM7l7e6DC2dgRJcAfUNYigmrtAAB4cPg3D0bxmTgvgPV1uF11PZsnq/1UrUvFDIVSr+JOR1heHQxHckbGkq4IZrbNpt3FoQ9F6xs4LKdR3BDgjpLxAy+UZ1GOC/W7Jcoir5Og/I6yZHElSnajEIChMh",
   "source": "curated-public-history"
 }
