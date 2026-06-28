@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+*.db
+games/*
+!games/.gitkeep
+logs/*
+!logs/.gitkeep
