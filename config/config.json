@@ -1,0 +1,19 @@
+{
+  "version": "1.0",
+  "spoofer": {
+    "auto_export": true,
+    "track_versions": true,
+    "create_acf": true,
+    "create_download_scripts": true
+  },
+  "paths": {
+    "depot_downloader": "tools/DepotDownloader.dll",
+    "games_output": "games",
+    "logs": "logs"
+  },
+  "download": {
+    "max_retries": 3,
+    "use_manifest_files": true,
+    "parallel_downloads": false
+  }
+}
